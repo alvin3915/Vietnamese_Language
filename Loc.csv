@@ -17,7 +17,7 @@ Blcok/Shelf_Wood;Text;;Wooden shelf@;Kệ gỗ@
 Block/Anchor_Stationary;Text;;Stationary anchor@Lets you anchor your raft.;Mỏ neo cố định@Dùng để neo bè của bạn.
 Block/Anchor_Stationary_Advanced;Text;;Advanced stationary anchor@Works remotely with the engine controls.;Mỏ neo xịn@Điều khiển từ xa với bộ điều khiển động cơ.
 Block/Anchor_Stationary_Remote;Text;;Remote stationary anchor@Works remotely with the engine controls.;Mỏ neo đièu khiển từ xa@Điều khiển từ xa với bộ điều khiển động cơ.
-Block/Anchor_Throwable;Text;;Throwable anchor@Lets you anchor your raft. Can only be used once.;Mỏ neo cùi bắp@Dùng để neo bè. Chỉ có thể xài 1 lần.
+Block/Anchor_Throwable;Text;;Throwable anchor@Lets you anchor your raft. Can only be used once.;Mỏ neo cùi bắp@Dùng để neo bè. Chỉ có thể xài một lần.
 Block/Antenna;Text;;Antenna@Used along with the receiver.;Ăng-ten@Dùng với máy dò tín hiệu.
 Block/Bathtub;Text;;Wooden bathtub@A no splinter guarantee!;Bồn tắm gỗ@Đảm bảo không sợ vỡ!
 Block/BatteryCharger;Text;;Battery charger@Can be connected with fuel pipes!;Máy Sạc pin@Có thể được kết nối với ống dẫn nhiên liệu!
@@ -45,7 +45,7 @@ Block/CookingStand_Purifier_One;Text;;Simple purifier@Can purify one cup of salt
 Block/CookingStand_Purifier_Two;Text;;Advanced purifier@Can purify several cups of water at once. Does not require fuel.;Máy lọc nước xịn@Có thể lọc vài cốc nước biển thành vài cốc nước ngọt. Không yêu cầu nhiên liệu.
 Block/CookingStand_Smelter;Text;;Smelter@Can smelt metal ore, sand and seaweed.;Lò nung@Có thể nung chảy quặng kim loại, cát và rong biển.
 Block/CookingStand_Smelter_Electric;Text;;Electric Smelter@Can smelt metal ore, sand and seaweed. With electricity!;Lò nung điện@Có thể nung chảy quặng kim loại, cát và rong biển.. Nhưng mà với điện!
-Block/Cropplot_Grass;Text;;Grass plot@Add water, get grass, feed animals.;Bãi cỏ@Thêm nước, thu cỏ, và dùng để nuôi mấy con thú vật bạn bắt được.
+Block/Cropplot_Grass;Text;;Grass plot@Add water, get grass, feed animals.;Cỏ@Thêm nước, thu cỏ, và dùng để nuôi mấy con thú vật bạn bắt được.
 Block/Cropplot_Large;Text;;Large crop plot@Lets you grow trees.;Khay đất lớn@Để bạn trồng cây.
 Block/Cropplot_Large_Tier3;Text;;Advanced large crop plot@A fancier plot that lets you grow trees.;Khay đất lớn xịn@Một cái thùng to và đẹp để bạn trồng nhiều cây.
 Block/Cropplot_Medium;Text;;Medium crop plot@Lets you grow bigger plants.;Khay đất vừa@Để bạn trồng mấy.
@@ -121,8 +121,8 @@ Block/Ladder;Text;;Ladder@A good way to go up and down.;Thang@Dùng để leo l�
 Block/Ladder_Half;Text;;Half ladder@A good way to go up and down.;Thang nhỏ@Dùng để leo lên leo xuống.
 Block/Ladder_Tier3;Text;;Solid ladder@A good way to go up and down.;Thang kiên cố@Dùng để leo lên leo xuống.
 Block/Ladder_Tier3_Half;Text;;Solid half ladder@A good way to go up and down.;Thang nhỏ kiên cố@Dùng để leo lên leo xuống.
-Block/Lantern;Text;;Lantern@Lights up the dark.;Đèn lồng@Thắp sáng màn đêm đen tối.
-Block/Lantern_Metal;Text;;Metal lantern@Lights up the dark.;Đèn lồng kim loại@Thắp sáng màn đêm đen tối.
+Block/Lantern;Text;;Lantern@Lights up the dark.;Đèn@Thắp sáng màn đêm đen tối.
+Block/Lantern_Metal;Text;;Metal lantern@Lights up the dark.;Đèn kim loại@Thắp sáng màn đêm đen tối.
 Block/MajorTom;Text;;Major Tom@Not the best astronaut, but not the worst.;Thiếu tá Tom@Không phải là phi hành gia giỏi nhất, nhưng cũng không phải là người tệ nhất.
 Block/MotivationalQuote;Text;;Motivational quote@Teasingly perfect...;Bảng Trích dẫn@Để cà khịa thì hoàn hảo ...
 Block/MotorWheel;Text;;Engine@Allows you to go in different directions and increases your speed.;Động cơ@Cho phép di chuyển theo các hướng khác nhau và tăng tốc độ.
@@ -136,8 +136,8 @@ Block/PaperBundle;Text;;Paper bundle@Rough, stiff and boring.;Xấp giấy@Thô,
 Block/Piano;Text;;Piano@Become a real beet-hoven.;Đàn Piano@Trở thành một Beethoven thứ hai.
 Block/Pillar_Tier3;Text;;Solid wooden pillar@Provides support for additional floors.;Cột gỗ kiên cố@Dùng trong xây dựng.
 Block/Pillar_Wood;Text;;Wooden pillar@Provides support for additional floors.;Cột gỗ@Dùng trong xây dựng.
-Block/Pipe_Fuel;Text;;Fuel pipe@Useful for transporting biofuel between different machines.;Ống nhiên liệu@Hữu ích cho việc vận chuyển nhiên liệu sinh học giữa các máy khác nhau.
-Block/Pipe_Water;Text;;Water pipe@Useful for transporting water between different machines.;Ống nước@Hữu ích cho việc vận chuyển nước giữa các máy khác nhau.
+Block/Pipe_Fuel;Text;;Fuel pipe@Useful for transporting biofuel between different machines.;Ống dẫn xăng@Hữu ích cho việc vận chuyển nhiên liệu sinh học giữa các máy khác nhau.
+Block/Pipe_Water;Text;;Water pipe@Useful for transporting water between different machines.;Ống dẫn Nước@Hữu ích cho việc vận chuyển nước giữa các máy khác nhau.
 Block/Plushie;Text;;Plushie@Soft and adorable!;Thú nhồi bông@Mềm và dễ thương.
 Block/Quill;Text;;Quill@The feather is sooo soft.;"Bút Lông nhím@Coi bộ lông này""mềm quá"" =))"
 Block/RBPainting_Andre;Text;;Man And Moon@A remnant of a mysterious collective.;Người đàn ông và Mặt trăng@Tàn dư của một bộ sưu tập bí ẩn.
@@ -183,7 +183,7 @@ Block/Roof_XJunction_Wood;Text;;Wooden X-junction@Covers your head.;Miếng X g�
 Block/Rug;Text;;Rug@Reduces splinters in your feet.;Thảm@Dùng để chùi chân.
 Block/Sail;Text;;Sail@Can nudge you in the right direction.;Buồm@Có thể đưa bạn đi đúng hướng.
 Block/SaltPepper;Text;;Salt and pepper shaker@Neccessary if the chef is skimpy.;Bình lắc muối tiêu@Cần thiết cho mấy cha đầu bếp lười biếng.
-Block/Scarecrow;Text;;Scarecrow@Keeps seagulls away from you crop plots by distracting the attention with its beautiful body.;Bù nhìn rơm@Đuổi lũ chim khỏi vườn của bạn.
+Block/Scarecrow;Text;;Scarecrow@Keeps seagulls away from you crop plots by distracting the attention with its beautiful body.;Bù nhìn@Đuổi lũ chim khỏi vườn của bạn.
 Block/Scarecrow_Advanced;Text;;Advanced Scarecrow@Keeps seagulls away from your crop plots for good.;Bù nhìn rơm xịn@Đuổi lũ chim còn tốt hơn cái kia.
 Block/ScrapMechanic;Text;;Scrap Mechanic duck@An old plastic duck. Seems to originate from the game Scrap Mechanic.;Vịt cơ khí bằng phế liệu@Một con vịt nhựa cũ. Có vẻ bắt nguồn từ game Scrap Mechanic.
 Block/SetFortified;Text;;Fortify@;Gia cố@
@@ -315,7 +315,7 @@ CraftingSub/Bottles;Text;;Bottles;Chai
 CraftingSub/BowCategory;Text;;Bow and Arrow;Cung và Tên
 CraftingSub/Candlesticks;Text;;Candlesticks;Chân nến
 CraftingSub/Clocks;Text;;Clocks;Đồng Hồ
-CraftingSub/Containers;Text;;Containers;Hộp đựng
+CraftingSub/Containers;Text;;Containers;Đồ đựng
 CraftingSub/CookingTable;Text;;Cooking tables;Bàn nấu ăn
 CraftingSub/Cropplots;Text;;Cropplots;Đất trồng cây
 CraftingSub/Cropplots2;Text;;Cropplots;Đất trồng cây
@@ -329,7 +329,7 @@ CraftingSub/Grills;Text;;Grills;Bếp nướng
 CraftingSub/Hats;Text;;Hats;Mũ
 CraftingSub/HeadLights;Text;;Head lights;Đèn treo đầu
 CraftingSub/Heads;Text;;Heads;Heads
-CraftingSub/Healing;Text;;Healing;Đồ Trị thương
+CraftingSub/Healing;Text;;Healing;Thuốc Trị Thương
 CraftingSub/Hooks;Text;;Hooks;Móc
 CraftingSub/ItemNets;Text;;Collection nets;Lưới gom rác
 CraftingSub/Lanterns;Text;;Lanterns;Đèn lồng
@@ -337,7 +337,7 @@ CraftingSub/LeatherArmor;Text;;Leather armor;Áo giáp da
 CraftingSub/Lights;Text;;Lights;Đèn
 CraftingSub/Music;Text;;Music;Nhạc
 CraftingSub/NetGunCategory;Text;;Net launcher;Súng bắn lưới
-CraftingSub/Painting;Text;;Painting;Sơn trang trí
+CraftingSub/Painting;Text;;Painting;Công cụ Sơn
 CraftingSub/Paintings;Text;;Paintings;Những bức tranh
 CraftingSub/Pipes;Text;;Pipes;Ống
 CraftingSub/Purifiers;Text;;Purifiers;Máy lọc
@@ -620,7 +620,7 @@ Item/Boar;Text;;Warthog;Lợn lòi
 Item/BoarHead;Text;;Warthog head@Looks good on a trophy board.;Đầu lợn lòi@Nhìn đẹp hơn khi treo trên tường.
 Item/Bolt;Text;;Bolt@It's like a thick screw.;Bù lông@Nó giống như một con ốc vít.
 Item/Bow;Text;;Basic bow@Shoots arrows roughly where you point it.;Cung thường@Bắn mũi tên vào nơi bạn đang ngắm.
-Item/Brick_Dry;Text;;Dry brick@A dry brick. Not very exciting in itself.;Gạch khô@1 cục gạch đã phơi khô.
+Item/Brick_Dry;Text;;Dry brick@A dry brick. Not very exciting in itself.;Gạch đã khô@1 cục gạch đã phơi khô.
 Item/Briefcase;Text;;Briefcase@;Cặp tài liệu@
 Item/Bucket;Text;;Bucket@Useful for gathering milk.;Xô@Dùng để đựng sữa.
 Item/Bucket_Milk;Text;;Bucket of milk@A full bucket of milk.;Xô sữa@Một xô đầy sữa.
@@ -2349,4 +2349,4 @@ Story/X/Voiceline/ScientistDialogue4;Text;;Thanks for waking me up. Long term cr
 Story/X/Voiceline/ScientistDialogue5;Text;;So… you got room for a bio-engineer? I swear it’s actually practical.;Vậy… có chỗ cho một kỹ sư sinh học không? Tôi thề là nó thực sự thiết thực.
 Story/X/Voiceline/ScientistDialogue6;Text;;Great! That’s very nice of you. I’ll do my best!;Tuyệt! Cảm ơn bạn. Tôi sẽ cố hết sức!
 Story/X/Voiceline/ScientistDialogue7;Text;;The reactor is working? Sparrow, you actually did it. Wow. Good job.;Lò phản ứng hoạt động rồi kìa? Sparrow, anh thực sự đã làm được. Wow. Làm tốt lắm.
-You're not friends with the host.;Text;;Nobody can join;Không ai được tham gia
+You're not friends with the host.;Text;;Nobody can join;Không ai được tham gia.
