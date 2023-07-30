@@ -452,7 +452,7 @@ Game/PickUp;Text;;Pick up;Nhặt
 Game/PickUpX;Text;;Pick up {[ItemX]};Nhặt {[ItemX]}
 Game/PickupNote;Text;;New note added;Đã thêm ghi chú mới
 Game/PlaceInBed;Text;;Place {[CarriedPlayer]} in bed;Đặt {[CarriedPlayer]} lên giường
-Game/PlaceItem;Text;;Place {[CurrentItem]};Đặt {[CurrentItem]}
+Game/PlaceItem;Text;;Place {[CurrentItem]};Bỏ {[CurrentItem]} vào
 Game/PlaceItemResearch;Text;;Place item in slot to research;Đặt vật phẩm vào ô để nghiên cứu
 Game/PlaceItemX;Text;;Place {[ItemX]};Bỏ {[ItemX]} vào
 Game/PlantItemX;Text;;Plant {[ItemX]};Trồng {[ItemX]}
