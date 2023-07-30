@@ -1056,14 +1056,14 @@ Settings/Graphics;Text;;Graphics;Đồ hoạ
 Story/BalboaIsland/CorreasDiary1;Text;;"Three months ago my sister Astrid and I were put in charge of the Ranger Station on Balboa. We handled the bear population and kept the relay towers operational. The next shift was meant to start weeks back. But the replacements never showed up.
 
 HENRY suggested that I start writing things down after Astrid disappeared so that I'm not feeling so lonely anymore.
-~BRUNO";"Ba tháng trước, em gái tôi, Astrid và tôi được giao phụ trách coi Trạm Kiểm Lâm ở Balboa. Chúng tôi đã xử lý hết lũ gấu và duy trì hoạt động của các tháp chuyển tiếp. Ca tiếp theo dự định sẽ tiếp nhận từ nhiều tuần trước. Nhưng những người thay thế kia không bao giờ xuất hiện.
+~BRUNO";"Ba tháng trước, chị gái tôi, Astrid và tôi được giao phụ trách coi Trạm Kiểm Lâm ở Balboa. Chúng tôi đã xử lý hết lũ gấu và duy trì hoạt động của các tháp chuyển tiếp. Ca tiếp theo dự định sẽ tiếp nhận từ nhiều tuần trước. Nhưng những người thay thế kia không bao giờ xuất hiện.
 
 HENRY nói với tôi rằng tôi nên bắt đầu ghi lại mọi thứ sau khi Astrid biến mất để tôi không phải cảm thấy cô đơn nữa.
 ~BRUNO"
 Story/BalboaIsland/CorreasDiary2;Text;;"The kids are fighting. Astrid would have known how to make them stop. I found her wrench out by the clearing. I’ve been calling out on the radio. Please. I just want to talk, sis.
 
 MIRANDA is screaming outside. I hope her and HENRY make up soon.
-~BRUNO";"Bọn trẻ đang đánh nhau. Astrid hẳn đã biết cách khiến chúng dừng lại. Tôi tìm thấy cái mỏ lết của cô ấy ở bãi đất trống. Tôi đã cố gắng dùng đài phát thanh để liên lạc. Làm ơn đi. Em chỉ muốn nói chuyện thôi mà.
+~BRUNO";"Bọn trẻ đang đánh nhau. Astrid hẳn đã biết cách khiến chúng dừng lại. Tôi tìm thấy cái mỏ lết của cô ấy ở bãi đất trống. Tôi đã cố gắng dùng đài phát thanh để liên lạc. Làm ơn đi. Em chỉ muốn nói chuyện với chị thôi mà.
 
 MIRANDA đang la hét bên ngoài. Tôi hy vọng cô ấy và HENRY sớm làm lành.
 ~BRUNO"
@@ -1096,13 +1096,13 @@ Story/BalboaIsland/PictureOfTwoEngineers;Text;;"MERRY CHRISTMAS FROM NOWHERE
 ~THE CORREA TWINS";"GIÁNG SINH VUI VẺ TỪ HƯ KHÔNG.
 ~CẶP SONG SINH CORREA"
 Story/BalboaIsland/Schedule;Text;;SCHEDULE;LỊCH TRÌNH
-Story/BalboaIsland/Voiceline/CorreasDiary1_1;Text;;"Three months ago my sister Astrid and I were put in charge of the Ranger Station on Balboa. ";Ba tháng trước, em gái tôi, Astrid và tôi được giao phụ trách coi Trạm Kiểm Lâm ở Balboa.
+Story/BalboaIsland/Voiceline/CorreasDiary1_1;Text;;"Three months ago my sister Astrid and I were put in charge of the Ranger Station on Balboa. ";Ba tháng trước, chị gái tôi, Astrid và tôi được giao phụ trách coi Trạm Kiểm Lâm ở Balboa.
 Story/BalboaIsland/Voiceline/CorreasDiary1_2;Text;;"We handled the bear population and kept the relay towers operational. ";Chúng tôi đã xử lý hết lũ gấu và duy trì hoạt động của các tháp chuyển tiếp.
 Story/BalboaIsland/Voiceline/CorreasDiary1_3;Text;;The next shift was meant to start weeks back. But the replacements never showed up.;Ca tiếp theo dự định sẽ tiếp nhận từ nhiều tuần trước. Nhưng những người thay thế kia không bao giờ xuất hiện.
 Story/BalboaIsland/Voiceline/CorreasDiary1_4;Text;;HENRY suggested that I start writing things down after Astrid disappeared so that I'm not feeling so lonely anymore.;HENRY nói với tôi rằng tôi nên bắt đầu ghi lại mọi thứ sau khi Astrid biến mất để tôi không phải cảm thấy cô đơn nữa.
 Story/BalboaIsland/Voiceline/CorreasDiary2_1;Text;;The kids are fighting. Astrid would have known how to make them stop.;Bọn trẻ đang đánh nhau. Astrid hẳn đã biết cách khiến chúng dừng lại.
 Story/BalboaIsland/Voiceline/CorreasDiary2_2;Text;;"I found her wrench out by the clearing. I’ve been calling out on the radio. ";Tôi tìm thấy cái mỏ lết của cô ấy ở bãi đất trống. Tôi đã cố gắng dùng đài phát thanh để liên lạc.
-Story/BalboaIsland/Voiceline/CorreasDiary2_3;Text;;Please. I just want to talk, sis. MIRANDA is screaming outside.;Làm ơn đi. Em chỉ muốn nói chuyện thôi mà. MIRANDA đang la hét bên ngoài.
+Story/BalboaIsland/Voiceline/CorreasDiary2_3;Text;;Please. I just want to talk, sis. MIRANDA is screaming outside.;Làm ơn đi. Em chỉ muốn nói chuyện với chị thôi mà. MIRANDA đang la hét bên ngoài.
 Story/BalboaIsland/Voiceline/CorreasDiary2_4;Text;;I hope her and HENRY make up soon.;Tôi hy vọng cô ấy và HENRY sớm làm lành.
 Story/BalboaIsland/Voiceline/CorreasDiary3_1;Text;;"I haven’t seen ERROL all night. I asked MIRANDA but she and HENRY won’t tell me anything. ";Cả đêm nay tôi đã không nhìn thấy ERROL đâu cả. Tôi hỏi MIRANDA nhưng cô ấy và HENRY đều không nói cho tôi biết bất cứ điều gì.
 Story/BalboaIsland/Voiceline/CorreasDiary3_2;Text;;They’re hiding something. Did they figure out there’s only space for two of them on the boat?;Họ dường như đang che giấu điều gì đó. Họ có phát hiện ra rằng chỉ có đủ chỗ cho hai người họ trên thuyền thôi không?
@@ -2308,8 +2308,8 @@ Story/X/Voiceline/BikerDialog2;Text;;Oh man! I would’ve been a goner without y
 Story/X/Voiceline/BikerDialog3;Text;;Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!;Vậy, anh là một kẻ di cư, phải không? Nếu anh cần một người to khoẻ đi cùng, tìm chi cho xa!
 Story/X/Voiceline/BikerDialog4;Text;;Alright, yeah! Leave the heavy lifting to me!;Ừ được rồi! Cứ để mấy việc nặng cho tôi.
 Story/X/Voiceline/BikerDialogue1;Text;;Buddy! Yeah, could you be an angel and help me out a bit? I’d owe you big time!;Anh bạn! Đúng rồi anh đấy, có thể giúp tôi một tay không? Tôi rất biết ơn đấy.
-Story/X/Voiceline/BikerDialogue2;Text;;Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!;Ôi trời! Tôi sẽ là một người chết nếu không có anh đi cùng. Lời khuyên cho tôi trong tương lai: KHÔNG ĐƯỢC âu yếm gấu.
-Story/X/Voiceline/BikerDialogue3;Text;;Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!;Vậy, anh không phải là một kẻ di cư, phải không? Nếu anh cần một người to khoẻ đi cùng, tìm chi cho xa!
+Story/X/Voiceline/BikerDialogue2;Text;;Oh man! I would’ve been a goner without you. Tip for future me: bears are NOT cuddly!;Ôi trời! Nếu không có anh, chắc tôi sẽ chết mất thôi. Lời khuyên cho bản thân: KHÔNG ĐƯỢC âu yếm gấu.
+Story/X/Voiceline/BikerDialogue3;Text;;Say, you wouldn’t be a rafter, would ya? If ya need some muscle onboard, look no further!;Vậy, anh là một kẻ di cư, phải không? Nếu anh cần một người to khoẻ đi cùng, tìm chi cho xa!
 Story/X/Voiceline/BikerDialogue4;Text;;Alright, yeah! Leave the heavy lifting to me!;Ừ được rồi! Cứ để mấy việc nặng cho tôi.
 Story/X/Voiceline/BikerDialogue5;Text;;Ain’t nothing like the fresh breeze. Reminds me of the road trips me and the boys used to go on.;Không gì bằng một làn gió mát. Làm tôi nhớ đến mấy chuyến đi mà tôi với lũ bạn đã từng trải qua.
 Story/X/Voiceline/ExecutiveDialog1;Text;;You there. Get me out of this thing.;Anh kia. Kéo tôi ra khỏi đây với.
