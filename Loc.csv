@@ -454,13 +454,13 @@ Game/PickupNote;Text;;New note added;Đã thêm ghi chú mới
 Game/PlaceInBed;Text;;Place {[CarriedPlayer]} in bed;Đặt {[CarriedPlayer]} lên giường
 Game/PlaceItem;Text;;Place {[CurrentItem]};Đặt {[CurrentItem]}
 Game/PlaceItemResearch;Text;;Place item in slot to research;Đặt vật phẩm vào ô để nghiên cứu
-Game/PlaceItemX;Text;;Place {[ItemX]};Đặt {[ItemX]}
+Game/PlaceItemX;Text;;Place {[ItemX]};Bỏ {[ItemX]} vào
 Game/PlantItemX;Text;;Plant {[ItemX]};Trồng {[ItemX]}
 Game/PlayerDisconnected;Text;;has left the raft!;đã rời khỏi bè!
 Game/PlayerJoined;Text;;has joined the raft!;đã lên bè!
 Game/PlayersNeedToBeClose;Text;;All players must be nearby;Tất cả người chơi phải ở gần
 Game/Portions;Text;;Portions;Khẩu phần
-Game/PourLiquid;Text;;Pour liquid;Đổ nước
+Game/PourLiquid;Text;;Pour liquid;Đổ đi
 Game/Press;Text;;Press;Nhấn
 Game/Remove;Text;;Remove;Gỡ bỏ
 Game/RenamePet;Text;;Change animal name;Đổi tên thú
