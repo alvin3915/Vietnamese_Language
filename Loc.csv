@@ -1164,7 +1164,7 @@ There’s lots of debri underwater. I couldn’t get anything out though. Sad. P
 
 Doctor Henry said she will be okay, so it’s okay.";"NHẬT KÝ KHOA HỌC CỦA DETTO -THỞ DƯỚI NƯỚC-
 
-Sanjay vừa khóc vừa chạy đi khi họ kéo tôi ra lên. Chả chuyên nghiệp chút nào cả.
+Sanjay vừa khóc vừa chạy đi khi họ kéo tôi lên. Chả chuyên nghiệp chút nào cả.
 
 Có rất nhiều mảnh vỡ dưới nước. Nhưng tôi lại không thể lấy được bất cứ cái gì. Buồn thật đấy. Bố đã cấm tôi làm bất kỳ thí nghiệm nào khác. Tôi nghĩ bố chỉ tức giận vì mẹ đang bị ốm.
 
@@ -1255,7 +1255,7 @@ Story/CaravanIsland/Voiceline/DettosJournal3_3;Text;;Pa had to apologize to ever
 Story/CaravanIsland/Voiceline/DettosJournal3_4;Text;;What an overreaction! They would have taken my tools if Sanjay hadn’t helped me put out the fire.;Thật là một phản ứng thái quá! Tý nữa thì họ đã lấy dụng cụ của tôi nếu Sanjay không giúp tôi dập lửa.
 Story/CaravanIsland/Voiceline/DettosJournal3_5;Text;;Good helper, Sanjay.;Quả là một người hay giúp đỡ, Sanjay à.
 Story/CaravanIsland/Voiceline/DettosJournal4_1;Text;;DETTO'S SCIENTIFIC JOURNAL -UNDERWATER CACHES-;NHẬT KÝ KHOA HỌC CỦA DETTO -THỞ DƯỚI NƯỚC-
-Story/CaravanIsland/Voiceline/DettosJournal4_2;Text;;Sanjay ran off crying as soon as they dragged me out. Very unprofessional.;Sanjay vừa khóc vừa chạy đi khi họ kéo tôi ra lên. Chả chuyên nghiệp chút nào cả.
+Story/CaravanIsland/Voiceline/DettosJournal4_2;Text;;Sanjay ran off crying as soon as they dragged me out. Very unprofessional.;Sanjay vừa khóc vừa chạy đi khi họ kéo tôi lên. Chả chuyên nghiệp chút nào cả.
 Story/CaravanIsland/Voiceline/DettosJournal4_3;Text;;There’s lots of debri underwater. I couldn’t get anything out though. Sad.;Có rất nhiều mảnh vỡ dưới nước. Nhưng tôi lại không thể lấy được bất cứ cái gì. Buồn thật đấy.
 Story/CaravanIsland/Voiceline/DettosJournal4_4;Text;;"Pa forbade me from doing any more experiments. I think he’s just angry because Ma got sick.
 ";Bố đã cấm tôi làm bất kỳ thí nghiệm nào khác. Tôi nghĩ bố chỉ tức giận vì mẹ đang bị ốm.
@@ -2348,4 +2348,4 @@ Story/X/Voiceline/ScientistDialogue4;Text;;Thanks for waking me up. Long term cr
 Story/X/Voiceline/ScientistDialogue5;Text;;So… you got room for a bio-engineer? I swear it’s actually practical.;Vậy… có chỗ cho một kỹ sư sinh học không? Tôi thề là nó thực sự thiết thực.
 Story/X/Voiceline/ScientistDialogue6;Text;;Great! That’s very nice of you. I’ll do my best!;Tuyệt! Cảm ơn bạn. Tôi sẽ cố hết sức!
 Story/X/Voiceline/ScientistDialogue7;Text;;The reactor is working? Sparrow, you actually did it. Wow. Good job.;Lò phản ứng hoạt động rồi kìa? Sparrow, anh thực sự đã làm được. Wow. Làm tốt lắm.
-You're not friends with the host.;Text;;Nobody can join;Không ai được tham gia
+You're not friends with the host.;Text;;Nobody can join;Không ai được tham gia.
