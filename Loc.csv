@@ -465,7 +465,7 @@ Game/Press;Text;;Press;Nhấn
 Game/Remove;Text;;Remove;Gỡ bỏ
 Game/RenamePet;Text;;Change animal name;Đổi tên thú
 Game/Reputation;Text;;Reputation;Danh tiếng
-Game/RequiredItemX;Text;;Requires {[ItemX]};Yêu cầu {[ItemX]}
+Game/RequiredItemX;Text;;Requires {[ItemX]};Cần có {[ItemX]}
 Game/RequiredRawMaterials;Text;;Requires raw materials;Cần có nguyên liệu thô
 Game/Requires;Text;;Requires;Cần có
 Game/RequiresCogwheel;Text;;Requires cogwheel;Cần có bánh răng
