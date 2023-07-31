@@ -12,7 +12,7 @@ Audio/NotebookVolume;Text;;Notebook Volume;Âm Lượng Sổ Tay
 Audio/SFXVolume;Text;;SFX Volume;Âm Lượng Hiệu Ứng
 Audio/UIVolume;Text;;UI Volume;Âm Lượng UI
 Battery/Empty;Text;;Battery empty;Không có Pin
-Battery/Required;Text;;Battery required;Yêu cầu Pin
+Battery/Required;Text;;Battery required;Cần có Pin
 Blcok/Shelf_Wood;Text;;Wooden shelf@;Kệ gỗ@
 Block/Anchor_Stationary;Text;;Stationary anchor@Lets you anchor your raft.;Mỏ neo cố định@Dùng để neo bè của bạn.
 Block/Anchor_Stationary_Advanced;Text;;Advanced stationary anchor@Works remotely with the engine controls.;Mỏ neo xịn@Điều khiển từ xa với bộ điều khiển động cơ.
