@@ -659,23 +659,23 @@ Item/ClayBowl;Text;;Clay bowl@A very good bowl.;Bát đất sét@Một cái bát
 Item/Coconut;Text;;Coconut@Soothes thirst and some hunger.;Dừa@Làm dịu cơn đói và khát.
 Item/CoconutBeat;Text;;Coconut beat@Something sweet for the child in you.;Sinh tố dừa@Một cái gì đó ngọt ngào cho đứa trẻ như bạn.
 Item/CoconutChicken;Text;;Coconut chicken@Yummy chicken cooked in coconut milk.;Súp gà cốt dừa@Gà nấu nước cốt dừa ngon tuyệt.
-Item/Color_Black;Text;;Black paint@Used together with the paint brush.;Sơn đen@Used together with the paint brush.
-Item/Color_Blue;Text;;Blue paint@Used together with the paint brush.;Sơn xanh@Used together with the paint brush.
-Item/Color_Red;Text;;Red paint@Used together with the paint brush.;Sơn đỏ@Used together with the paint brush.
-Item/Color_White;Text;;White paint@Used together with the paint brush.;Sơn trắng@Used together with the paint brush.
-Item/Color_Yellow;Text;;Yellow paint@Used together with the paint brush.;Sơn vàng@Used together with the paint brush.
+Item/Color_Black;Text;;Black paint@Used together with the paint brush.;Sơn đen@Dùng chung với cọ để sơn.
+Item/Color_Blue;Text;;Blue paint@Used together with the paint brush.;Sơn xanh@Dùng chung với cọ để sơn
+Item/Color_Red;Text;;Red paint@Used together with the paint brush.;Sơn đỏ@Dùng chung với cọ để sơn
+Item/Color_White;Text;;White paint@Used together with the paint brush.;Sơn trắng@Dùng chung với cọ để sơn
+Item/Color_Yellow;Text;;Yellow paint@Used together with the paint brush.;Sơn vàng@Dùng chung với cọ để sơn
 Item/Compass;Text;;Compass@Points relatively north.;La bàn@Chỉ về hướng bắc.
-Item/Cooked_Beet;Text;;Cooked beet@A healthy little meal.;Củ cải đãchín@A healthy little meal.
-Item/Cooked_Catfish;Text;;Cooked catfish@A solid meal.;Cá trê đã chín@A solid meal.
-Item/Cooked_Drumstick;Text;;Cooked drumstick@Full of protein.;Đùi gà đã chín@Full of protein.
-Item/Cooked_GenericMeat;Text;;Cooked meat@Tender and juicy meat.;Thịt đã chín@Tender and juicy meat.
-Item/Cooked_Herring;Text;;Cooked  herring@Nice little snack.;Cá trích đã chín@Nice little snack.
-Item/Cooked_Mackerel;Text;;Cooked mackerel@Fish is part of any healthy diet.;Cá thu đã chín@Fish is part of any healthy diet.
-Item/Cooked_Pomfret;Text;;Cooked pomfret@Nice little snack.;Cá chim nấu chín@Nice little snack.
-Item/Cooked_Potato;Text;;Cooked potato@Nice little snack.;Khoai tây nấu chín@Nice little snack.
-Item/Cooked_Salmon;Text;;Cooked salmon@A solid meal.;Cá hồi nấu chín@A solid meal.
-Item/Cooked_Shark;Text;;Cooked shark@A solid meal.;Thịt cá mập đã chín@A solid meal.
-Item/Cooked_Tilapia;Text;;Cooked tilapia@Fish is part of any healthy diet.;Cá rô phi đã chín@Fish is part of any healthy diet.
+Item/Cooked_Beet;Text;;Cooked beet@A healthy little meal.;Củ cải đã chín@Một bữa ăn nhẹ ngon miệng.
+Item/Cooked_Catfish;Text;;Cooked catfish@A solid meal.;Cá trê đã chín@Một bữa ăn ngon lành.
+Item/Cooked_Drumstick;Text;;Cooked drumstick@Full of protein.;Đùi gà đã chín@Rất giàu chất dinh dưỡng.
+Item/Cooked_GenericMeat;Text;;Cooked meat@Tender and juicy meat.;Thịt đã chín@Thịt rất mềm mà còn mọng nước.
+Item/Cooked_Herring;Text;;Cooked  herring@Nice little snack.;Cá trích đã chín@Một món ăn nhẹ tuyệt vời.
+Item/Cooked_Mackerel;Text;;Cooked mackerel@Fish is part of any healthy diet.;Cá thu đã chín@Cá là một phần của bất kỳ chế độ ăn ăn kiêng đó.
+Item/Cooked_Pomfret;Text;;Cooked pomfret@Nice little snack.;Cá chim nấu chín@Một món ăn nhẹ tuyệt vời.
+Item/Cooked_Potato;Text;;Cooked potato@Nice little snack.;Khoai tây nấu chín@Một món ăn nhẹ tuyệt vời.
+Item/Cooked_Salmon;Text;;Cooked salmon@A solid meal.;Cá hồi nấu chín@Một bữa ăn ngon lành.
+Item/Cooked_Shark;Text;;Cooked shark@A solid meal.;Thịt cá mập đã chín@Một bữa ăn ngon lành.
+Item/Cooked_Tilapia;Text;;Cooked tilapia@Fish is part of any healthy diet.;Cá rô phi đã chín@Cá là một phần của bất kỳ chế độ ăn ăn kiêng đó.
 Item/CopperIngot;Text;;Copper Ingot@Commonly used for electrical components.;Thỏi đồng@Thường được sử dụng để chế tạo đồ điện.
 Item/CopperOre;Text;;Copper@Can be smelted into copper ingot.;Quặng Đồng@Có thể nung chảy thành thỏi đồng.
 Item/Crate;Text;;Crate;Thùng đồ
@@ -798,8 +798,8 @@ Item/Recipe_HeadBroth;Text;;Recipe: Head broth@A recipe that can be cooked in a 
 Item/Recipe_HeartyStew;Text;;Recipe: Hearty stew@A recipe that can be cooked in a pot. A mysterious stew that lets you evade death, once.;Công thức: Thịt hầm rau củ@Có thể nấu bằng nồi lẩu.. Một món hầm bí ẩn giúp bạn thoát khỏi cái chết, xài một lần.
 Item/Recipe_Mangonana;Text;;Recipe: Mangonana@A recipe that can be made in a juicer.;Công thức: Sinh tố xoài@Có thể xay bằng máy xay sinh tố.
 Item/Recipe_MushroomOmelette;Text;;Recipe: Mushroom omelette@A recipe that can be cooked in a pot.;Công thức: Trứng tráng nấm@Có thể nấu bằng nồi lẩu..
-Item/Recipe_RedMelon;Text;;Recipe: Red melon@A recipe that can be made in a juicer.;Công thức: Sinh tố Dưa-Dừa-Dâu@Có thể xay bằng máy xay sinh tố.
-Item/Recipe_RedbeetShot;Text;;Recipe: Redbeet shot@A recipe that can be made in a juicer. Adds some extra hearts to your life.;Công thức: Sinh tố Củ cải nước dừa@Có thể xay bằng máy xay sinh tố. Thêm một ít máu cho bạn.
+Item/Recipe_RedMelon;Text;;Recipe: Red melon@A recipe that can be made in a juicer.;Công thức: Sinh tố 3D@Có thể xay bằng máy xay sinh tố.
+Item/Recipe_RedbeetShot;Text;;Recipe: Redbeet shot@A recipe that can be made in a juicer. Adds some extra hearts to your life.;Công thức: Sinh tố Củ Cải@Có thể xay bằng máy xay sinh tố. Thêm một ít máu cho bạn.
 Item/Recipe_SalmonSalad;Text;;Recipe: Salmon salad@A recipe that can be cooked in a pot. A healthy salad that increases your lung capacity.;Công thức: Salad Cá hồi@Có thể nấu bằng nồi lẩu.. Một món salad ngon lành giúp tăng dung tích phổi của bạn.
 Item/Recipe_SharkDinner;Text;;Recipe: Shark dinner@A recipe that can be cooked in a pot.;Công thức: Cá mập hầm nấm@Có thể nấu bằng nồi lẩu..
 Item/Recipe_SilverSmoothie;Text;;Recipe: Silver smoothie@A recipe that can be made in a juicer.;Công thức: Sinh tố Xoài-Chuối@Có thể xay bằng máy xay sinh tố.
@@ -810,7 +810,7 @@ Item/Recipe_SteakWithJam;Text;;Recipe: Steak with jam@A recipe that can be cooke
 Item/Recipe_StrawberryColada;Text;;Recipe: Strawberry colada@A recipe that can be made in a juicer.;Công thức: Sinh tố Dâu@Có thể xay bằng máy xay sinh tố.
 Item/Recipe_Sushi;Text;;Recipe: Sushi@A recipe that can be cooked in a pot;Công thức: Sushi@Có thể nấu bằng nồi lẩu.
 Item/Recipe_VegetableSoup;Text;;Recipe: Vegetable soup@A recipe that can be cooked in a pot.;Công thức: Súp rau củ@Có thể nấu bằng nồi lẩu..
-Item/RedMelon;Text;;Red melon@A refreshing drink for a hot summer day.;Sinh tố Dưa-Dừa-Dâu@Một thức uống giải nhiệt cho ngày hè nóng bức.
+Item/RedMelon;Text;;Red melon@A refreshing drink for a hot summer day.;Sinh tố 3D@Một thức uống giải nhiệt cho ngày hè nóng bức.
 Item/RedbeetShot;Text;;Redbeet shot@Adds some extra hearts to your life.;Sinh tố Củ cải nước dừa@Bổ thận tráng dương, tăng cường sinh lý.
 Item/RhinoSharkTrophy;Text;;Rhino shark trophy@Too big to fit on a trophy board.;Cá mập đầu tê giác@Quá to để treo lên tường.
 Item/Rope;Text;;Rope@Could be used to tie a knot. Made from palm leaves.;Dây thừng@Có thể dùng để thắt nút. Làm từ lá cọ.
@@ -862,7 +862,7 @@ Item/Sword_Titanium;Text;;Titanium sword@The gratest device for poking and cutti
 Item/Thatch;Text;;Palm Leaf@Could be useful, maybe for making ropes?;Lá cọ@Có thể hữu ích. Dùng làm dây thừng?
 Item/Titanium;Text;;Titanium@;Titanium@
 Item/TitaniumIngot;Text;;Titanium ingot@It's sooo heavy.;Thỏi titan@Ôi nặng vl.
-Item/TitaniumOre;Text;;Titanium ore@Can be smelted into titanium ingot.;Quặng tian@Nung chảy để lấy thỏi titan
+Item/TitaniumOre;Text;;Titanium ore@Can be smelted into titanium ingot.;Quặng tian@Nung chảy để lấy thỏi titan.
 Item/TitaniumTools;Text;;Titanium tools@;Công cụ Titan@
 Item/TradeToken;Text;;Trade coin@Used as currency at the trading post.;Xu giao dịch@Dùng để mua đồ ở trạm giao dịch.
 Item/TrapSnapper;Text;;Trap Snapper@Tier 2. A toe might go missing if you're not careful.;Cá hồng đột biến@Cấp 2. Cẩn thận mất ngón chân.
@@ -1043,7 +1043,7 @@ Radar/InvalidFrequency;Text;;INVALID FREQUENCY;TẦN SỐ KHÔNG HỢP LỆ
 Radar/NotConnected;Text;;NOT CONNECTED;KHÔNG KẾT NỐI
 Radar/Power;Text;;Power;Power
 Radar/Radar;Text;;RADAR;RADAR
-Radar/RecieverAltitude;Text;;REQUIRES HIGHER ALTITUDE;YÊU CẦU ĐỘ CAO CHƯA ĐỦ
+Radar/RecieverAltitude;Text;;REQUIRES HIGHER ALTITUDE;CHƯA ĐẠT ĐỦ ĐỘ CAO
 Radar/TooCloseAntenna;Text;;TOO CLOSE TO OTHER ANTENNA;QUÁ GẦN ĂNG-TEN KHÁC
 Radar/TooCloseReciever;Text;;TOO CLOSE TO RECEIVER;QUÁ GẦN MÁY DÒ TÍN HIỆU
 Radar/TooFarFromReciever;Text;;TOO FAR FROM RECEIVER;QUÁ XA MÁY DÒ TÍN HIỆU
@@ -2337,14 +2337,14 @@ Story/X/Voiceline/MechanicDialogue5;Text;;Awesome, let’s head out!;Tuyệt th�
 Story/X/Voiceline/MechanicDialogue6;Text;;Would getting a forty five degree angle be possible? Sure. Maybe. Annoying? Yeah.;Có thể có được một góc bốn mươi lăm độ không? Chắc chắn. Có lẽ. Hơi phiền? Vâng.
 Story/X/Voiceline/ScientistDialog1;Text;;[Heavy coughing followed by deep breath.];[Ho thật lớn rồi hit thở thật sâu.]
 Story/X/Voiceline/ScientistDialog2;Text;;Good morning!;Chào buổi sáng!
-Story/X/Voiceline/ScientistDialog3;Text;;Wait, you’re not- oh. I get it. They left me here. Wow.;Đợi đã, anh không- ồ. Tôi hiểu rồi. Họ bỏ tôi ở đây. Ồ wow.
-Story/X/Voiceline/ScientistDialog4;Text;;Thanks for waking me up. Long term cryosleep can result in a number of issues.;Cảm ơn vì đã gọi tôi dậy. Ngủ đông lạnh trong thời gian dài có thể dẫn đến một số vấn đề không tốt.
+Story/X/Voiceline/ScientistDialog3;Text;;Wait, you’re not- oh. I get it. They left me here. Wow.;Đợi đã, anh không phải là- ồ. Tôi hiểu rồi. Họ bỏ tôi ở đây. Ồ wow.
+Story/X/Voiceline/ScientistDialog4;Text;;Thanks for waking me up. Long term cryosleep can result in a number of issues.;Cảm ơn vì đã gọi tôi dậy. Ngủ trong kén đông lạnh trong một thời gian dài không tốt cho sức khoẻ lắm.
 Story/X/Voiceline/ScientistDialog5;Text;;So… you got room for a bio-engineer? I swear it’s actually practical.;Vậy… có chỗ cho một kỹ sư sinh học không? Tôi thề là nó thực sự thiết thực.
 Story/X/Voiceline/ScientistDialog6;Text;;Great! That’s very nice of you. I’ll do my best!;Tuyệt! Cảm ơn bạn. Tôi sẽ cố hết sức!
-Story/X/Voiceline/ScientistDialogue1;Text;;[Heavy coughing followed by deep breath.];[Ho thật lớn rồi hit thở thật sâu.]
+Story/X/Voiceline/ScientistDialogue1;Text;;[Heavy coughing followed by deep breath.];[Ho thật lớn rồi hÍt thở thật sâu.]
 Story/X/Voiceline/ScientistDialogue2;Text;;Good morning!;Chào buổi sáng!
-Story/X/Voiceline/ScientistDialogue3;Text;;Wait, you’re not- oh. I get it. They left me here. Wow.;Đợi đã, anh không- ồ. Tôi hiểu rồi. Họ bỏ tôi ở đây. Ồ wow.
-Story/X/Voiceline/ScientistDialogue4;Text;;Thanks for waking me up. Long term cryosleep can result in a number of issues.;Cảm ơn vì đã gọi tôi dậy. Ngủ đông lạnh trong thời gian dài có thể dẫn đến một số vấn đề không tốt.
+Story/X/Voiceline/ScientistDialogue3;Text;;Wait, you’re not- oh. I get it. They left me here. Wow.;Đợi đã, anh không phải là- ồ. Tôi hiểu rồi. Họ bỏ tôi ở đây. Ồ wow.
+Story/X/Voiceline/ScientistDialogue4;Text;;Thanks for waking me up. Long term cryosleep can result in a number of issues.;Cảm ơn vì đã gọi tôi dậy. Ngủ trong kén đông lạnh trong một thời gian dài không tốt cho sức khoẻ lắm.
 Story/X/Voiceline/ScientistDialogue5;Text;;So… you got room for a bio-engineer? I swear it’s actually practical.;Vậy… có chỗ cho một kỹ sư sinh học không? Tôi thề là nó thực sự thiết thực.
 Story/X/Voiceline/ScientistDialogue6;Text;;Great! That’s very nice of you. I’ll do my best!;Tuyệt! Cảm ơn bạn. Tôi sẽ cố hết sức!
 Story/X/Voiceline/ScientistDialogue7;Text;;The reactor is working? Sparrow, you actually did it. Wow. Good job.;Lò phản ứng hoạt động rồi kìa? Sparrow, anh thực sự đã làm được. Wow. Làm tốt lắm.
