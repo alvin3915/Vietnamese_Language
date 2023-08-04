@@ -498,7 +498,7 @@ Game/TradingPost;Text;;Trading post;Trạm giao dịch
 Game/Trashcan;Text;;Trash can;Thùng rác
 Game/TurnOff;Text;;Turn off;Tắt
 Game/TurnOn;Text;;Turn on;Bật
-Game/Use;Text;;Use;Mở
+Game/Use;Text;;Use;Dùng
 Game/VersionNewer;Text;;Save is outdated;Bản lưu đã cũ
 Game/VersionOutdated;Text;;Game version outdated;Phiên bản trò chơi đã cũ
 Game/WakeUp;Text;;Press any key to wake up;Bấm phím bất kì để tỉnh dậy
