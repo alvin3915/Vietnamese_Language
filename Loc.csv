@@ -395,7 +395,7 @@ Fonts/ChineseRocks;Font;;ChineseRocks;ChineseRocks
 Fonts/Dialog;TextMeshPFont;;calibrib SDF 2;calibrib SDF 2											 
 Fonts/monorama-medium;TextMeshPFont;;monorama-medium SDF;monorama-medium SDF
 Fonts/tt_marks_rough_bold;TextMeshPFont;;tt_marks_rough_bold SDF;tt_marks_rough_bold SDF
-Game/;Text;;;""""
+Game/;Text;;Text
 Game/Add;Text;;Add;Thêm					
 Game/Balboa/RelayStationsActive;Text;;{[ItemX]} relay stations active;{[ItemX]} trạm chuyển tiếp hoạt động
 Game/BuildMenu;Text;;Hold for more parts;Bấm giữ để chọn loại khác
@@ -916,7 +916,7 @@ LoadMenu/LoadingMenu;Text;;Leaving world;Đang thoát ra
 LoadMenu/LoadingWorld;Text;;Loading world;Đang tham gia
 LoadMenu/Tip0;Text;;Make sure to anchor your raft before exploring an island!;Việt hoá bởi Hoàng Thông a.k.a Alvin~
 LoadMenu/Tip1;Text;;Cooked food is more nutritious!;Việt hoá bởi Hoàng Thông a.k.a Alvin~
-LoadMenu/Tip10;Text;;;""""
+LoadMenu/Tip10;Text;;Việt hoá bởi Hoàng Thông a.k.a Alvin~;Việt hoá bởi Hoàng Thông a.k.a Alvin~
 LoadMenu/Tip2;Text;;Expand your raft by using the building hammer!;Việt hoá bởi Hoàng Thông a.k.a Alvin~
 LoadMenu/Tip3;Text;;Blueprints found in the world are automatically added to your research table!;Việt hoá bởi Hoàng Thông a.k.a Alvin~
 LoadMenu/Tip4;Text;;Shark baits are useful when exploring reefs!;Việt hoá bởi Hoàng Thông a.k.a Alvin~
@@ -924,7 +924,7 @@ LoadMenu/Tip5;Text;;Sharks wont eat foundation armor!;Việt hoá bởi Hoàng T
 LoadMenu/Tip6;Text;;Make sure to keep your distance from puffer fishes when they explode!;Việt hoá bởi Hoàng Thông a.k.a Alvin~
 LoadMenu/Tip7;Text;;Want to play with others? Join our discord server to find new friends!;Việt hoá bởi Hoàng Thông a.k.a Alvin~
 LoadMenu/Tip8;Text;;Sleeping in a bed allows you to skip night time!;Việt hoá bởi Hoàng Thông a.k.a Alvin~
-LoadMenu/Tip9;Text;;;""""
+LoadMenu/Tip9;Text;;Việt hoá bởi Hoàng Thông a.k.a Alvin~;Việt hoá bởi Hoàng Thông a.k.a Alvin~
 Menu/Accept;Text;;Accept;Chấp nhận
 Menu/AdditionalSound;Text;;Additional sound fx by:;Âm thanh hiệu ứng bởi:
 Menu/AllowFriends;Text;;Allow friends to join?;Cho phép bạn bè tham gia?
@@ -948,7 +948,7 @@ Menu/Connecting;Text;;Connecting;Đang kết nối
 Menu/CreateNewWorld;Text;;Create new world;Tạo thế giới mới
 Menu/CreateWorldButton;Text;;Create world;Tạo thế giới
 Menu/Credits;Text;;Credits;Credits
-Menu/Credits/;Text;;;""""
+Menu/Credits/;Text;;Việt hoá bởi Hoàng Thông a.k.a Alvin~
 Menu/Credits/AccountExecutive;Text;;Account Executive;Account Executive
 Menu/Credits/CastingAssistant;Text;;Casting Assistant;Casting Assistant
 Menu/Credits/CastingDirector;Text;;Casting Director;Casting Director
