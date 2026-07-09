@@ -267,19 +267,19 @@ Controls/ChatNextMessage;Text;;Next message;Tin nhắn kế tiếp
 Controls/ChatPreviousMessage;Text;;Previous message;Tin nhắn trước
 Controls/ColorPick;Text;;Color pick;Chọn màu
 Controls/Crouch;Text;;Crouch;Ngồi
-Controls/CursorSensitivity;Text;;Cursor Sensitivity;Độ nhạy con trỏ																		  
+Controls/CursorSensitivity;Text;;Cursor Sensitivity;Độ nhạy con trỏ
 Controls/DropItem;Text;;Drop item;Thả vật phẩm
 Controls/GameInfo;Text;;GameInfo;Thông tin trò chơi
 Controls/Hotbar;Text;;Hotbar;Hotbar
 Controls/Interact;Text;;Interact;Tương tác
 Controls/Inventory;Text;;Inventory;Túi đồ
 Controls/Invert Look Up/Down;Text;;Invert Look Up/Down;Đảo hướng nhìn lên/xuống
-Controls/InvertLookUpDown;Text;;Invert Look Up/Down;Đảo hướng nhìn lên/xuống																					  
+Controls/InvertLookUpDown;Text;;Invert Look Up/Down;Đảo hướng nhìn lên/xuống
 Controls/InvertMouseY;Text;;Invert mouse up/down;Đảo ngược chuột lên/xuống
 Controls/Jump;Text;;Jump;Nhảy
 Controls/Key;Text;;Key;Phím
 Controls/Keybinds;Text;;Keybinds;Tên hành động
-Controls/LookSensitivity;Text;;Look Sensitivity;Độ nhạy góc nhìn																	   
+Controls/LookSensitivity;Text;;Look Sensitivity;Độ nhạy góc nhìn
 Controls/Mirror;Text;;Mirror;Mirror
 Controls/MouseSensitivity;Text;;Mouse Sensitivity;Tốc độ chuột
 Controls/PaintOneSide;Text;;Paint one side;Sơn một mặt
@@ -292,13 +292,13 @@ Controls/StrafeLeft;Text;;Strafe left;Qua trái
 Controls/StrafeRight;Text;;Strafe right;Qua phải
 Controls/SwimDown;Text;;Swim down;Lặn xuống
 Controls/ToggleCrouch;Text;;Toggle Crouch;Bật/tắt ngồi thấp
-Controls/ToggleNoClip;Text;;Toggle noclip;Bật/tắt xuyên vật thể																		
+Controls/ToggleNoClip;Text;;Toggle noclip;Bật/tắt xuyên vật thể
 Controls/ToggleNotebook;Text;;Hide/Show notebook;Ẩn/Hiện sổ tay
 Controls/TogglePaintSide;Text;;Toggle single sided painting;Đổi kiểu sơn
 Controls/ToggleRun;Text;;Toggle sprint;Bấm để chạy nhanh
 Controls/ToggleThirdPerson;Text;;Toggle third person mode;Chuyển sang góc nhìn thứ 3
 Controls/ToggleUI;Text;;Hide/Show UI;Ẩn/Hiện  UI
-Controls/Vibration;Text;;Vibration;Rung							   
+Controls/Vibration;Text;;Vibration;Rung
 Controls/WalkBackward;Text;;Walk backward;Đi xuống
 Controls/WalkForward;Text;;Walk forward;Đi lên
 Crafting/Decorations;Text;;Decorations;Đồ trang trí
@@ -392,18 +392,18 @@ Difficulty/Peaceful_Description;Text;;A more relaxed version of Raft where enemi
 Fonts/CalibriTMP;TextMeshPFont;;calibrib SDF;calibrib SDF
 Fonts/Calibrib;Font;;calibrib;calibrib
 Fonts/ChineseRocks;Font;;ChineseRocks;ChineseRocks
-Fonts/Dialog;TextMeshPFont;;calibrib SDF 2;calibrib SDF 2											 
+Fonts/Dialog;TextMeshPFont;;calibrib SDF 2;calibrib SDF 2
 Fonts/monorama-medium;TextMeshPFont;;monorama-medium SDF;monorama-medium SDF
 Fonts/tt_marks_rough_bold;TextMeshPFont;;tt_marks_rough_bold SDF;tt_marks_rough_bold SDF
 Game/;Text;;Text
-Game/Add;Text;;Add;Thêm					
+Game/Add;Text;;Add;Thêm
 Game/Balboa/RelayStationsActive;Text;;{[ItemX]} relay stations active;{[ItemX]} trạm chuyển tiếp hoạt động
 Game/BuildMenu;Text;;Hold for more parts;Bấm giữ để chọn loại khác
 Game/Buy;Text;;Buy;Mua
 Game/Cable/StartDragging;Text;;Start dragging cable;Bắt đầu kéo cáp
 Game/Cable/StopDragging;Text;;Stop dragging cable;Dừng kéo cáp
 Game/CanBeResearched;Text;;Cant be researched;Không thể nghiên cứu
-Game/CantBeResearched;Text;;Cant be researched;Không thể nghiên cứu															 
+Game/CantBeResearched;Text;;Cant be researched;Không thể nghiên cứu
 Game/CantSleepDay;Text;;Can't fall asleep during daytime;Không thể ngủ vào ban ngày
 Game/CantSleepPlayers;Text;;All players must be sleeping;Tất cả người chơi phải cùng ngủ
 Game/Carry;Text;;Carry {[IncapacitatedPlayer]};Vác {[IncapacitatedPlayer]}
@@ -424,13 +424,13 @@ Game/CoolingChallenge/InsertRods;Text;;Insert control rods;Chèn thanh điều k
 Game/CoolingChallenge/Success;Text;;Cooling process initiated;Bắt đầu quá trình làm mát
 Game/CoolingChallenge/ValvesShut;Text;;Control rods in place. Cooling process is ready!;Đã gắn thanh điều khiển. Quá trình làm mát đã sẵn sàng!
 Game/Craft;Text;;Craft;Chế tạo
-Game/CraftX;Text;;Craft {[ItemX]};Chế tạo {[ItemX]}									   
+Game/CraftX;Text;;Craft {[ItemX]};Chế tạo {[ItemX]}
 Game/Cupboard;Text;;Cupboard;Tủ
 Game/DaysSurvived;Text;;Days survived;Số ngày sống sót
 Game/DoorLockedOneWay;Text;;Door is locked from the other side;Cửa bị khóa từ phía bên kia
 Game/DoorLockedOneWay2;Text;;Door is locked from inside;Cửa bị khóa từ bên trong
 Game/Drink;Text;;Drink;Uống
-Game/Drop;Text;;Drop;Thả		  
+Game/Drop;Text;;Drop;Thả
 Game/DropAnchor;Text;;Drop anchor;Thả neo
 Game/DropAnimal;Text;;Stop carrying;Bỏ xuống
 Game/DropX;Text;;Drop {[ItemX]};Thả {[ItemX]}
@@ -444,18 +444,18 @@ Game/Harvest;Text;;Harvest;Thu hoạch
 Game/HazmatSuit;Text;;Equip hazmat suit;Trang bị đồ chống phóng xạ
 Game/Health;Text;;Health;Máu
 Game/Higher Octave;Text;;Higher Octave;Tăng quãng tám
-Game/Hold;Text;;[HOLD];[GIỮ]					  
+Game/Hold;Text;;[HOLD];[GIỮ]
 Game/HoldToPickupX;Text;;Hold to pick up {[ItemX]};Giữ để nhặt {[ItemX]}
 Game/InStock;Text;;In stock: {[ItemX]};Trong kho còn: {[ItemX]}
 Game/InsertCogwheel;Text;;Insert cogwheel;Chèn bánh răng
-Game/InvalidWorldCode;Text;;Invalid World Code;Mã server không hợp lệ																   
+Game/InvalidWorldCode;Text;;Invalid World Code;Mã server không hợp lệ
 Game/Keypad/Fail;Text;;Error;Lỗi
 Game/Keypad/Success;Text;;Success;Thành công
 Game/LaunchFirework;Text;;Shoot firework;Bắn pháo hoa
 Game/Learn;Text;;Learn;Học
-Game/LearnX;Text;;Learn {[ItemX]};Học {[ItemX]}										 
+Game/LearnX;Text;;Learn {[ItemX]};Học {[ItemX]}
 Game/Learned;Text;;Learned;Đã học
-Game/Lower Octave;Text;;Lower Octave;Giảm quãng tám									   
+Game/Lower Octave;Text;;Lower Octave;Giảm quãng tám
 Game/MotorWheel/ChangeDirection;Text;;Change direction;Đổi hướng
 Game/MotorWheel/TurnOff;Text;;Turn off engine;Tắt động cơ
 Game/MotorWheel/TurnOn;Text;;Activate engine;Bật động cơ
@@ -463,7 +463,7 @@ Game/Move;Text;;Move;Di chuyển
 Game/MoveCrane;Text;;Move Crane;Điều khiển cần cẩu
 Game/MoveHalf;Text;;Move half;Di chuyển một nửa
 Game/MoveOne;Text;;Move one;Di chuyển một lần
-Game/MoveRepeat;Text;;Move Repeatedly;Di chuyển liên tục															 
+Game/MoveRepeat;Text;;Move Repeatedly;Di chuyển liên tục
 Game/NeedWater;Text;;Needs fresh water;Cần nước ngọt
 Game/NewCharacter;Text;;New playable character;Nhân vật mới khả dụng
 Game/NoAmmo;Text;;No ammo;Không có đạn
@@ -485,7 +485,7 @@ Game/PlayersNeedToBeClose;Text;;All players must be nearby;Tất cả người c
 Game/Portions;Text;;Portions;Khẩu phần
 Game/PourLiquid;Text;;Pour liquid;Đổ đi
 Game/Press;Text;;Press;Nhấn
-Game/QuickMove;Text;;Quick move;Di chuyển nhanh												 
+Game/QuickMove;Text;;Quick move;Di chuyển nhanh
 Game/Remove;Text;;Remove;Gỡ bỏ
 Game/RenamePet;Text;;Change animal name;Đổi tên thú
 Game/Reputation;Text;;Reputation;Danh tiếng
@@ -499,7 +499,7 @@ Game/RequiresWater;Text;;Requires water;Cần có nước
 Game/Research;Text;;Research;Nghiên cứu
 Game/ResearchBlueprint;Text;;You can now research;Bây giờ bạn có thể nghiên cứu
 Game/ResearchLearned;Text;;You learned;Bạn đã học
-Game/ResearchX;Text;;Research {[ItemX]};Nghiên cứu {[ItemX]}													   
+Game/ResearchX;Text;;Research {[ItemX]};Nghiên cứu {[ItemX]}
 Game/ResearchableItems;Text;;Items left to research;Các vật phẩm còn lại để nghiên cứu
 Game/Researched;Text;;Researched;Đã nghiên cứu
 Game/ResearchedBy;Text;;Researched by: {[RemoteSteamID]};Đã nghiên cứu bởi: {[RemoteSteamID]}
@@ -511,24 +511,24 @@ Game/Sell;Text;;Sell;Bán
 Game/SetFortified;Text;;Fortify;Gia cố
 Game/Sit;Text;;Sit;Ngồi xuống
 Game/Sleep;Text;;Lay down;Nằm xuống
-Game/Sort;Text;;Sort Chest;Sắp xếp rương								  
+Game/Sort;Text;;Sort Chest;Sắp xếp rương
 Game/Stand;Text;;Stand up;Đứng lên
 Game/StartCooking;Text;;Start cooking;Bắt đầu nấu
 Game/StopSleep;Text;;Stand up;Đứng lên
 Game/Storage;Text;;Storage;Kho
 Game/Store;Text;;Store Items;Cất vật phẩm
-Game/Swap;Text;;Swap;Đổi chỗ				 
+Game/Swap;Text;;Swap;Đổi chỗ
 Game/TalkToX;Text;;Talk to {[ItemX]};Nói chuyện với {[ItemX]}
 Game/Throw;Text;;Throw;Ném
 Game/Tier;Text;;Tier;Cấp độ
 Game/Trader;Text;;Trader;Thương nhân
 Game/TradingPost;Text;;Trading post;Trạm giao dịch
-Game/Trash;Text;;Trash items;Vứt vật phẩm							   
+Game/Trash;Text;;Trash items;Vứt vật phẩm
 Game/Trashcan;Text;;Trash can;Thùng rác
 Game/TurnOff;Text;;Turn off;Tắt
 Game/TurnOn;Text;;Turn on;Bật
 Game/Use;Text;;Use;Dùng
-Game/UseCrane;Text;;Use Crane;Dùng cần cẩu							   
+Game/UseCrane;Text;;Use Crane;Dùng cần cẩu
 Game/VersionNewer;Text;;Save is outdated;Bản lưu đã cũ
 Game/VersionOutdated;Text;;Game version outdated;Phiên bản trò chơi đã cũ
 Game/WakeUp;Text;;Press any key to wake up;Bấm phím bất kì để tỉnh dậy
@@ -553,7 +553,7 @@ General/QuickBuild;Text;;Quick build;Xây dựng nhanh
 General/ShowPlayerNames;Text;;Enable nametag;Hiện tên người chơi
 Graphics/AmbientOcclusion;Text;;Ambient Occlusion;Đổ bóng cố định
 Graphics/Antialiasing;Text;;Antialiasing;Khử Răng Cưa
-Graphics/Brightness;Text;;Brightness;Độ sáng											
+Graphics/Brightness;Text;;Brightness;Độ sáng
 Graphics/FOV;Text;;FOV;FOV
 Graphics/FPSCap;Text;;Framerate limit;Khoá Khung Hình
 Graphics/FPSCap120;Text;;FPS 120;FPS 120
@@ -933,11 +933,11 @@ Menu/Artist;Text;;Artist;Nghệ sĩ
 Menu/AuthAllowAll;Text;;Everybody can join;Ai cũng có thể tham gia
 Menu/AuthAllowFriends;Text;;Friends can join;Bạn bè có thể tham gia
 Menu/AuthAllowNone;Text;;Nobody can join;Không ai có thể tham gia
-Menu/AuthInviteOnly;Text;;Invite Only;Chỉ mời riêng												
+Menu/AuthInviteOnly;Text;;Invite Only;Chỉ mời riêng
 Menu/Back;Text;;Back;Quay lại
 Menu/Block;Text;;Block;Chặn
 Menu/Blocked;Text;;Blocked;Đã chặn
-Menu/BlockedByHost;Text;;Blocked by the host;Bị chủ phòng chặn																 
+Menu/BlockedByHost;Text;;Blocked by the host;Bị chủ phòng chặn
 Menu/CommunityManager;Text;;Community Manager;Quản lý cộng đồng
 Menu/ConnectFail;Text;;Failed to join world;Không thể tham gia
 Menu/ConnectFail_MissmatchID;Text;;Your game version does not match the hosts game version;Phiên bản trò chơi của bạn không khớp với phiên bản trò chơi hiện tại
@@ -962,14 +962,14 @@ Menu/Credits/RouhiVoice;Text;;Voice actor - Rouhi;Voice actor - Rouhi
 Menu/Credits/Story;Text;;Game Writer;Game Writer
 Menu/Credits/VoiceDirector;Text;;Voice Director;Voice Director
 Menu/Credits/VoiceRecordingEngineers;Text;;Voice Recording Engineers;Voice Recording Engineers
-Menu/Crossplay;Text;;Crossplay;Chơi chéo nền tảng												   
+Menu/Crossplay;Text;;Crossplay;Chơi chéo nền tảng
 Menu/Delete;Text;;Delete;Xoá
 Menu/DeleteWorldButton;Text;;Delete;Xoá
 Menu/Developer;Text;;Developer:;Developer:
 Menu/Difficulty;Text;;Difficulty;Độ khó
 Menu/DisableVoiceChat;Text;;Disable Voicechat;Tắt chat thoại
 Menu/DisabledCommunications;Text;;Communication with other players is disabled;Giao tiếp với người chơi khác đã bị vô hiệu hóa
-Menu/Disconnected;Text;;Host left;Chủ phòng đã rời đi													 
+Menu/Disconnected;Text;;Host left;Chủ phòng đã rời đi
 Menu/DoYouWantToSave;Text;;Do you want to save before you exit?;Này... có muốn lưu trước khi thoát không?
 Menu/Done;Text;;Done;Hoàn tất
 Menu/EmptyName;Text;;Name can't be empty;Tên không được để trống
@@ -979,30 +979,30 @@ Menu/ExitGame;Text;;Exit game?;Thoát thật à?
 Menu/FemaleVoice;Text;;Female voice;Giọng nữ
 Menu/Fishing/BaitMenuFishingBait;Text;;Fishing bait;Mồi câu cá
 Menu/Fishing/OpenBaitMenu;Text;;Choose bait;Chọn mồi câu
-Menu/Friends;Text;;Friends;Bạn bè							
+Menu/Friends;Text;;Friends;Bạn bè
 Menu/HelpCenter;Text;;Help center;Trung tâm trợ giúp
 Menu/Host;Text;;Host;Chủ Server
 Menu/HostConnectionFailed;Text;;Trying to connect to host...;Đang kết nối đến server...
 Menu/Ignore;Text;;Ignore;Bỏ qua
 Menu/InvalidName;Text;;Name is invalid;Tên không hợp lệ
 Menu/Invite;Text;;Send Invite;Gửi lời mời
-Menu/IssuesConnecting;Text;;Having issues connecting;Gặp sự cố khi kết nối																			
+Menu/IssuesConnecting;Text;;Having issues connecting;Gặp sự cố khi kết nối
 Menu/JoinGame;Text;;Join world;Tham gia server
 Menu/LastPlayed;Text;;Last played;Lần chơi cuối
 Menu/LoadWorld;Text;;Load world;Tải Server
-Menu/Lobby;Text;;Lobby;Phòng chờ								   
+Menu/Lobby;Text;;Lobby;Phòng chờ
 Menu/LostConnection;Text;;"Disconnected from Steam.
 Restart Raft and try again.";"Đã ngắt kết nối khỏi Steam.
 Khởi động lại Raft và thử lại."
 Menu/LostConnectionToInternet;Text;;Lost connection to internet;Mất kết nối internet
 Menu/LostConnectionToPSN;Text;;Lost connection to PSN;Mất kết nối tới PSN
-Menu/LostConnectionToXboxLive;Text;;Lost connection to Xbox live;Mất kết nối tới Xbox Live																							  
+Menu/LostConnectionToXboxLive;Text;;Lost connection to Xbox live;Mất kết nối tới Xbox Live
 Menu/MainMenu;Text;;Main menu;Sảnh chờ
 Menu/MaleVoice;Text;;Male voice;Giọng Nam
-Menu/MaxWorlds;Text;;Maximum worlds created;Đã đạt số server tối đa																		 
+Menu/MaxWorlds;Text;;Maximum worlds created;Đã đạt số server tối đa
 Menu/Music;Text;;Music;Nhạc
 Menu/Mute;Text;;Mute Player;Cấm chat người chơi
-Menu/MuteMicrophone;Text;;Mute Microphone;Tắt micro												 
+Menu/MuteMicrophone;Text;;Mute Microphone;Tắt micro
 Menu/NameExists;Text;;Name already exists;Tên đã tồn tại
 Menu/New;Text;;New;Mới
 Menu/NewWorld;Text;;New world;Server mới
@@ -1014,36 +1014,36 @@ Menu/NoGamesFound;Text;;No worlds could be found.;Không tìm thấy server nào
 Menu/NoOnlineConnection;Text;;"No connection to steam.
 Refresh or restart Raft and try again.";"Đã ngắt kết nối khỏi Steam.
 Khởi động lại Raft và thử lại."
-Menu/OfflineMode;Text;;Online features not available in offline mode;Tính năng online không khả dụng ở chế độ ngoại tuyến																																   
+Menu/OfflineMode;Text;;Online features not available in offline mode;Tính năng online không khả dụng ở chế độ ngoại tuyến
 Menu/OfflineWarning;Text;;No connection to steam. Some features will not work without an internet connection.;Không có kết nối với Steam. Một số tính năng sẽ không hoạt động nếu không có kết nối internet.
 Menu/OpenWorldFolder;Text;;Open world folder path;Mở thư mục lưu server
 Menu/Password;Text;;Password;Mật khẩu
 Menu/Permanently;Text;;Permanently;Vĩnh viễn
 Menu/Player;Text;;Player;Người chơi
 Menu/PlayerCount;Text;;Player Count;Số người chơi
-Menu/PressToContinue;Text;;Press to continue;Nhấn để tiếp tục																  
+Menu/PressToContinue;Text;;Press to continue;Nhấn để tiếp tục
 Menu/Previous;Text;;Previous;Trước
 Menu/Primary;Text;;Primary;Chính
-Menu/Profile;Text;;Profile;Hồ sơ						   
+Menu/Profile;Text;;Profile;Hồ sơ
 Menu/Programmer;Text;;Programmer;Lập trình viên
 Menu/Publisher;Text;;Publisher:;Nhà phát hành:
 Menu/RaftBuiltBy;Text;;Raft built by: {[RaftBuiltByName]};Chiếc bè được đóng bởi: {[RaftBuiltByName]}
 Menu/ReallyUnstuck;Text;;Teleport to safe location?;Dịch chuyển đến vị trí an toàn?
 Menu/RefreshButton;Text;;Refresh;Làm mới
-Menu/Report;Text;;Report;Báo cáo				  
+Menu/Report;Text;;Report;Báo cáo
 Menu/ReturnToGame;Text;;Return to game;Quay lại trò chơi
 Menu/SaveWorld;Text;;Save world;Lưu Server
 Menu/Secondary;Text;;Secondary;Phụ
-Menu/Select;Text;;Select;Chọn		   
+Menu/Select;Text;;Select;Chọn
 Menu/Settings;Text;;Settings;Cài đặt
-Menu/Social;Text;;Social;Xã hội							  
+Menu/Social;Text;;Social;Xã hội
 Menu/Sound Design;Text;;Sound Design;Thiết kế âm thanh
 Menu/ToggleSecondary;Text;;Toggle Secondary;Chuyển sang vũ khí phụ
 Menu/TryingToConnect;Text;;Trying to connect to host...;Đang thử kết nối tới chủ phòng...
-Menu/Unblock;Text;;Unblock;Bỏ chặn									  
+Menu/Unblock;Text;;Unblock;Bỏ chặn
 Menu/Unstuck;Text;;Unstuck;Gỡ bè bị kẹt
 Menu/Volume;Text;;Volume Player;Âm lượng người chơi
-Menu/WelcomeToRaft;Text;;{[Gamertag]}, Welcome to Raft;{[Gamertag]}, chào mừng đến với Raft																						   
+Menu/WelcomeToRaft;Text;;{[Gamertag]}, Welcome to Raft;{[Gamertag]}, chào mừng đến với Raft
 Menu/WithHelpFrom;Text;;With help from:;Với sự giúp đỡ từ:
 Menu/World;Text;;World;Server
 Menu/WorldBackups;Text;;World backups;Server dự phòng
@@ -1144,8 +1144,8 @@ Thật là có biết bao kỷ niệm với nơi này. Chúng em sẽ tìm thấ
 Story/BalboaIsland/DollNote1;Text;;"BETRAYAL. FATHER TRUSTS THE MURDERERS.
 ~BOBBY";"BỊ PHẢN BỘI. CHA ĐÃ TIN TƯỞNG NHỮNG KẺ GIẾT NGƯỜI ĐÓ.
 ~BOBBY"
-Story/BalboaIsland/DollNote2;Text;;"HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT. 
-~N&D&L";"ÔNG ẤY SẼ BỎ CHÚNG TÔI LẠI. CHÚNG TÔI KHÔNG MUỐN ĐIỀU ĐÓ. 
+Story/BalboaIsland/DollNote2;Text;;"HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT.
+~N&D&L";"ÔNG ẤY SẼ BỎ CHÚNG TÔI LẠI. CHÚNG TÔI KHÔNG MUỐN ĐIỀU ĐÓ.
 ~N&D&L"
 Story/BalboaIsland/DollNote3;Text;;"FATHER HAS TO MAKE A DECISION. I KNOW IT WON’T BE ME, SO I WILL BE SPARED.
 ~BOBBY";"GIỜ CHA PHẢI RA QUYẾT ĐỊNH. TÔI BIẾT ĐÓ SẼ KHÔNG PHẢI LÀ TÔI, VÌ VẬY TÔI SẼ ĐƯỢC THA.
@@ -1156,8 +1156,8 @@ Story/BalboaIsland/DollNote4;Text;;"NOT ENOUGH BOAT FOR ALL OF US. I’M SORRY, 
 Story/BalboaIsland/DollNote5;Text;;"THE GUILTY LAY RESTLESS. WE MUST BE PUNISHED, IF WE ARE TO REST.
 ~BOBBY";"CẢM THẤY THẬT BỒN CHỒN KHI CÓ TỘI. CHÚNG TA PHẢI BỊ TRỪNG PHẠT, NẾU THẬT SỰ MUỐN ĐƯỢC NGHỈ NGƠI.
 ~BOBBY"
-Story/BalboaIsland/NoteFromHenry;Text;;"Papa MADE HIS MIND UP A LONG TIME AGO. HE’S GOING AFTER AUNTY.  MIRANDA IS FOLLOWING AS ALWAYS. 
-~HENRY";"PAPA ĐÃ QUYẾT ĐỊNH TỪ LÂU. ÔNG ẤY ĐANG THEO ĐUỔI DÌ. VÀ MIRANDA VẪN ĐI THEO NHƯ MỌI KHI. 
+Story/BalboaIsland/NoteFromHenry;Text;;"Papa MADE HIS MIND UP A LONG TIME AGO. HE’S GOING AFTER AUNTY.  MIRANDA IS FOLLOWING AS ALWAYS.
+~HENRY";"PAPA ĐÃ QUYẾT ĐỊNH TỪ LÂU. ÔNG ẤY ĐANG THEO ĐUỔI DÌ. VÀ MIRANDA VẪN ĐI THEO NHƯ MỌI KHI.
 ~HENRY"
 Story/BalboaIsland/PictureOfTwoEngineers;Text;;"MERRY CHRISTMAS FROM NOWHERE
 ~THE CORREA TWINS";"GIÁNG SINH VUI VẺ TỪ HƯ KHÔNG.
@@ -1177,12 +1177,12 @@ Story/BalboaIsland/Voiceline/CorreasDiary3_3;Text;;I’ve decided. I’ll leave 
 Story/BalboaIsland/Voiceline/CorreasDiary3_4;Text;;BOBBY will take care of the bears. Yes. It’s for the best.;Về chuyện lũ gấu BOBBY sẽ lo việc đó. Đúng vậy. Đây hẳn là điều tốt nhất.
 Story/BalboaIsland/Voiceline/CorreasDiary3_5;Text;;So many memories of this place. We’ll find you, sis. I promise.;Thật là có biết bao kỷ niệm với nơi này. Chúng em sẽ tìm thấy chị thôi, chị à. Em hứa đấy.
 Story/BalboaIsland/Voiceline/DollNote1;Text;;BETRAYAL. FATHER TRUSTS THE MURDERERS.;BỊ PHẢN BỘI. CHA ĐÃ TIN TƯỞNG NHỮNG KẺ GIẾT NGƯỜI ĐÓ.
-Story/BalboaIsland/Voiceline/DollNote2;Text;;HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT. ;ÔNG ẤY SẼ BỎ CHÚNG TÔI LẠI. CHÚNG TÔI KHÔNG MUỐN ĐIỀU ĐÓ. 
+Story/BalboaIsland/Voiceline/DollNote2;Text;;HE WOULD LEAVE US BEHIND. WE CAN’T HAVE THAT. ;ÔNG ẤY SẼ BỎ CHÚNG TÔI LẠI. CHÚNG TÔI KHÔNG MUỐN ĐIỀU ĐÓ.
 Story/BalboaIsland/Voiceline/DollNote3;Text;;FATHER HAS TO MAKE A DECISION. I KNOW IT WON’T BE ME, SO I WILL BE SPARED.;GIỜ CHA PHẢI RA QUYẾT ĐỊNH. TÔI BIẾT ĐÓ SẼ KHÔNG PHẢI LÀ TÔI, VÌ VẬY TÔI SẼ ĐƯỢC THA.
 Story/BalboaIsland/Voiceline/DollNote4;Text;;NOT ENOUGH BOAT FOR ALL OF US. I’M SORRY, ERROL.;THUYỀN KHÔNG ĐỦ CHỖ CHO TẤT CẢ CHÚNG TA RỒI. TAO XIN LỖI, ERROL.
 Story/BalboaIsland/Voiceline/DollNote5;Text;;THE GUILTY LAY RESTLESS. WE MUST BE PUNISHED, IF WE ARE TO REST.;CẢM THẤY THẬT BỒN CHỒN KHI CÓ TỘI. CHÚNG TA PHẢI BỊ TRỪNG PHẠT, NẾU THẬT SỰ MUỐN ĐƯỢC NGHỈ NGƠI.
 Story/BalboaIsland/Voiceline/NoteFromHenry_1;Text;;Papa MADE HIS MIND UP A LONG TIME AGO. HE’S GOING AFTER AUNTY. ;PAPA ĐÃ QUYẾT ĐỊNH TỪ LÂU. ÔNG ẤY ĐANG THEO ĐUỔI DÌ.
-Story/BalboaIsland/Voiceline/NoteFromHenry_2;Text;;MIRANDA IS FOLLOWING AS ALWAYS. ;VÀ MIRANDA VẪN ĐI THEO NHƯ MỌI KHI. 
+Story/BalboaIsland/Voiceline/NoteFromHenry_2;Text;;MIRANDA IS FOLLOWING AS ALWAYS. ;VÀ MIRANDA VẪN ĐI THEO NHƯ MỌI KHI.
 Story/BalboaIsland/Voiceline/PictureOfTwoEngineers;Text;;MERRY CHRISTMAS FROM NOWHERE;GIÁNG SINH VUI VẺ TỪ HƯ KHÔNG.
 Story/CaravanIsland/DettosJournal1;Text;;"DETTO'S SCIENTIFIC JOURNAL -CLASSIFIED-
 
@@ -1201,7 +1201,7 @@ Story/CaravanIsland/DettosJournal2;Text;;"DETTO'S SCIENTIFIC JOURNAL -TOP TOP SE
 
 Sanjay says the water pump idea doesn't work, because there isn't enough space in the well for all the water. Also, the neighbors complain about getting salt in their cups. They complain because they have no patience for science!
 
-I asked Pa why we can’t fly to another planet without all this water. Pa just laughed. But Sanjay showed me some pictures that gave me a great idea though… 
+I asked Pa why we can’t fly to another planet without all this water. Pa just laughed. But Sanjay showed me some pictures that gave me a great idea though…
 
 Good man, Sanjay.";"NHẬT KÍ KHOA HỌC CỦA DETTO -TUYỆT TUYỆT MẬT-
 
@@ -1292,7 +1292,7 @@ Story/CaravanIsland/RaftTownArticleCaption1;Text;;SAILING AS ONE;CHÚNG TÔI LÀ
 Story/CaravanIsland/RaftTownArticleCaption2;Text;;THE RAFT TOWNS OF INDONESIA;THỊ TRẤN BÈ CỦA INDONESIA
 Story/CaravanIsland/SanjayMessage;Text;;"My name is Sanjay. I think I’m in trouble.
 
-Detto put together a diving suit using a bike and an old diving helmet. Detto put weights in it to go down, but he put in too much. Now if I leave then no one will pump air to Detto using the bike! 
+Detto put together a diving suit using a bike and an old diving helmet. Detto put weights in it to go down, but he put in too much. Now if I leave then no one will pump air to Detto using the bike!
 
 If I’m thrown in jail, this is proof I am innocent!";"Tên tôi là Sanjay. Tôi nghĩ rằng tôi đang gặp rắc rối.
 
@@ -1302,8 +1302,8 @@ Nếu tôi bị tống vào tù, đây là bằng chứng tôi vô tội!"
 Story/CaravanIsland/UpdateRequired1;Text;;Caravan Town and more is coming in 'The Second Chapter';Thị trấn Caravan và hơn thế nữa sẽ xuất hiện trong 'Chương thứ hai'
 Story/CaravanIsland/UpdateRequired2;Text;;If you want to keep up with the development, click our social medias below.;Nếu bạn muốn cập nhật update, hãy theo dõi chúng tôi qua các trang mạng xã hội.
 Story/CaravanIsland/Voiceline/DettosJournal1_1;Text;;DETTO'S SCIENTIFIC JOURNAL -CLASSIFIED-;NHẬT KÍ KHOA HỌC CỦA DETTO -TUYỆT MẬT-
-Story/CaravanIsland/Voiceline/DettosJournal1_2;Text;;Ma says I should write down what I think to make it stick, so I write. ;Mẹ nói tôi nên viết ra những gì tôi nghĩ để ghi nhớ, vì vậy tôi mới viết. 
-Story/CaravanIsland/Voiceline/DettosJournal1_3;Text;;Caravan Town is a rock, sticking out from the water. It has good land, to raise pigs to eat.;Thị trấn Caravan giống như một tảng đá nhô lên khỏi mặt nước. Nó là một vùng đất tốt để trồng rau và nuôi lợn lấy thịt. 
+Story/CaravanIsland/Voiceline/DettosJournal1_2;Text;;Ma says I should write down what I think to make it stick, so I write. ;Mẹ nói tôi nên viết ra những gì tôi nghĩ để ghi nhớ, vì vậy tôi mới viết.
+Story/CaravanIsland/Voiceline/DettosJournal1_3;Text;;Caravan Town is a rock, sticking out from the water. It has good land, to raise pigs to eat.;Thị trấn Caravan giống như một tảng đá nhô lên khỏi mặt nước. Nó là một vùng đất tốt để trồng rau và nuôi lợn lấy thịt.
 Story/CaravanIsland/Voiceline/DettosJournal1_4;Text;;We can fish. Grow vegetables. Only downside are the hyenas, but they are usually friendly.;Còn có thể câu cá nữa. Nhược điểm duy nhất là lũ linh cẩu, nhưng chúng cũng khá thân thiện.
 Story/CaravanIsland/Voiceline/DettosJournal1_5;Text;;We came here on a boat, with half the rest of Jakarta.;Chúng tôi đến đây trên một chiếc thuyền, với một nửa phần còn lại của Jakarta.
 Story/CaravanIsland/Voiceline/DettosJournal1_6;Text;;They let us stay because Ma is smart and Pa is good at welding. ;Họ cho chúng tôi ở lại vì Mẹ thì thông minh còn Bố lại giỏi việc hàn.
@@ -1311,7 +1311,7 @@ Story/CaravanIsland/Voiceline/DettosJournal1_7;Text;;They say I'm just another m
 Story/CaravanIsland/Voiceline/DettosJournal1_8;Text;;See the problem is, the water is rising, right? What if we just take away the water?;Đấy nhìn xem vấn đề có phải là nước đang dâng lên, phải không? Vậy điều gì sẽ xảy ra nếu chúng ta lấy hết nước đi?
 Story/CaravanIsland/Voiceline/DettosJournal2_1;Text;;DETTO'S SCIENTIFIC JOURNAL -TOP TOP SECRET-;NHẬT KÍ KHOA HỌC CỦA DETTO -TUYỆT TUYỆT MẬT-
 Story/CaravanIsland/Voiceline/DettosJournal2_2;Text;;Sanjay says the water pump idea doesn't work, because there isn't enough space in the well for all the water.;Sanjay nói rằng ý tưởng máy bơm nước sẽ không hoạt động vì không có đủ không gian trong giếng để chứa hết nước.
-Story/CaravanIsland/Voiceline/DettosJournal2_3;Text;;"Also, the neighbors complain about getting salt in their cups. 
+Story/CaravanIsland/Voiceline/DettosJournal2_3;Text;;"Also, the neighbors complain about getting salt in their cups.
 ";Ngoài ra, những người hàng xóm phàn nàn về việc có muối trong cốc của họ.
 Story/CaravanIsland/Voiceline/DettosJournal2_4;Text;;They complain because they have no patience for science!;Họ phàn nàn vì họ không có kiên nhẫn với khoa học!
 Story/CaravanIsland/Voiceline/DettosJournal2_5;Text;;I asked Pa why we can’t fly to another planet without all this water.;Tôi hỏi Bố tại sao chúng ta không thể bay đến một hành tinh khác mà không có nước.
@@ -1332,14 +1332,14 @@ Story/CaravanIsland/Voiceline/DettosJournal5_2;Text;;There’s a stranger in tow
 Story/CaravanIsland/Voiceline/DettosJournal5_3;Text;;But at night I got Sanjay to help me sneak onto the stranger’s ship.;Nhưng vào ban đêm, tôi nhờ Sanjay giúp lẻn lên tàu của người lạ.
 Story/CaravanIsland/Voiceline/DettosJournal5_4;Text;;I thought maybe he had some medicine for Ma…;Tôi nghĩ có lẽ ông ấy có thuốc cho mẹ…
 Story/CaravanIsland/Voiceline/DettosJournal5_5;Text;;But Olof’s boat was just filled with cages. In the cages were big rats, and a… very large hyena. ;Nhưng thuyền của Olof chỉ chứa đầy những chiếc lồng. Trong lồng có những con chuột lớn, và một… con linh cẩu rất lớn.
-Story/CaravanIsland/Voiceline/DettosJournal5_6;Text;;They were so angry! Sanjay found notes talking about feeding and training them into his personal ‘army’.;Chúng vô cùng hung dữ! Sanjay tìm thấy những ghi chú nói về việc ông ta đã cho chúng ăn và huấn luyện chúng thành 'đội quân' của riêng ông ấy. 
+Story/CaravanIsland/Voiceline/DettosJournal5_6;Text;;They were so angry! Sanjay found notes talking about feeding and training them into his personal ‘army’.;Chúng vô cùng hung dữ! Sanjay tìm thấy những ghi chú nói về việc ông ta đã cho chúng ăn và huấn luyện chúng thành 'đội quân' của riêng ông ấy.
 Story/CaravanIsland/Voiceline/DettosJournal5_7;Text;;Sanjay thinks Olof might be a bad guy. I think I agree.;Sanjay nghĩ Olof có thể là kẻ xấu. Tôi cũng nghĩ vậy.
 Story/CaravanIsland/Voiceline/DettosJournal6_1;Text;;DETTO'S ADVENTURE JOURNAL;NHẬT KÝ PHIÊU LƯU CỦA DETTO
-Story/CaravanIsland/Voiceline/DettosJournal6_2;Text;;Pa says we have to go. Ma is getting sicker, and I heard that strange man Olof shouting orders.;Pa nói chúng ta phải rời đi. Bệnh của Mẹ đang trở nên xấu hơn, và tôi nghe thấy người đàn ông lạ mặt Olof đó hét lên ra lệnh. 
+Story/CaravanIsland/Voiceline/DettosJournal6_2;Text;;Pa says we have to go. Ma is getting sicker, and I heard that strange man Olof shouting orders.;Pa nói chúng ta phải rời đi. Bệnh của Mẹ đang trở nên xấu hơn, và tôi nghe thấy người đàn ông lạ mặt Olof đó hét lên ra lệnh.
 Story/CaravanIsland/Voiceline/DettosJournal6_3;Text;;I saw them rounding up all the hyenas in cages. Sanjay is helping separate the rafts from the rocks.;Tôi thấy họ vây bắt tất cả những con linh cẩu trong lồng. Còn Sanjay đang giúp tách bè ra khỏi đá.
 Story/CaravanIsland/Voiceline/DettosJournal6_4;Text;;I asked Doctor Henrik about Ma. He looked sick too. Told me to avoid the pigs. And Olof.;Tôi hỏi Bác sĩ Henrik về bệnh tình của Mẹ. Ông ấy trông cũng không đươc khoẻ. Ông ấy bảo với tôi hãy tránh xa những con lợn. Và cả Olof.
 Story/CaravanIsland/Voiceline/DettosJournal6_5;Text;;Sanjay says he’s scared. Smart man, Sanjay.;Sanjay nói rằng anh ấy cảm thấy sợ hãi.
-Story/CaravanIsland/Voiceline/DoctorsNote_1;Text;;It’s been three days. ;Đã ba ngày rồi. 
+Story/CaravanIsland/Voiceline/DoctorsNote_1;Text;;It’s been three days. ;Đã ba ngày rồi.
 Story/CaravanIsland/Voiceline/DoctorsNote_2;Text;;Stuck in this shack, sick as a dog. I don’t think I can treat anyone in my condition and these people know it.;Vẫn bị mắc kẹt trong cái lán này, cảm thấy không ổn chút nào. Tôi không nghĩ mình có thể chữa trị cho bất kỳ ai trong tình trạng như thế này và những người này họ cũng biết điều đó.
 Story/CaravanIsland/Voiceline/DoctorsNote_3;Text;;I asked them to leave me here.;Vậy nên tôi đã yêu cầu họ để tôi ở đây.
 Story/CaravanIsland/Voiceline/DoctorsNote_4;Text;;It’s the pigs. For weeks they’ve acted erratic.;Đó là những con lợn. Trong nhiều tuần qua, chúng đã hành động rất kỳ lạ.
@@ -1352,7 +1352,7 @@ Story/CaravanIsland/Voiceline/OlofsSpeech_4;Text;;Why should the elite get to es
 Story/CaravanIsland/Voiceline/OlofsSpeech_5;Text;;Who should force them? That’s right. The greatest rafters in this new southern sea.;Ai nên ép buộc họ? Đúng rồi. Chính là những người di cư vĩ đại nhất ở vùng biển phía nam này.
 Story/CaravanIsland/Voiceline/OlofsSpeech_6;Text;;YOU! TAKE TANGAROA! TAKE BACK YOUR FUTURE!;CHÍNH BẠN! HÃY CHIẾM LẤY TANGAROA! LẤY LẠI TƯƠNG LAI CỦA BẠN!
 Story/CaravanIsland/Voiceline/RaftTownArticle1_1;Text;;The flooding of Jakarta has led to escaping locals creating interconnected rafts as they make their way to land.;Lũ lụt ở Jakarta đã khiến những người dân bản địa phải tháo chạy, họ tạo ra những chiếc bè rồi kết nối chúng lại với nhau khi họ tìm đường đến đất liền.
-Story/CaravanIsland/Voiceline/RaftTownArticle1_2;Text;;“We just make do,” said Putri Reyes, one of the earlier adopters of these raft-towns, when inquired by one of our reporters about their living conditions.;“Chúng tôi chỉ biết làm thôi,” Putri Reyes nói, một trong những người đầu tiên chấp nhận những thị trấn bè này, ông cho biết khi được một trong những phóng viên của chúng tôi hỏi về điều kiện sống của họ. 
+Story/CaravanIsland/Voiceline/RaftTownArticle1_2;Text;;“We just make do,” said Putri Reyes, one of the earlier adopters of these raft-towns, when inquired by one of our reporters about their living conditions.;“Chúng tôi chỉ biết làm thôi,” Putri Reyes nói, một trong những người đầu tiên chấp nhận những thị trấn bè này, ông cho biết khi được một trong những phóng viên của chúng tôi hỏi về điều kiện sống của họ.
 Story/CaravanIsland/Voiceline/RaftTownArticle1_3;Text;;Drifting largely on sea-currents, they appear to be growing at a steady rate, raising considerable concerns with coastal authorities.;Trôi dạt phần lớn trên các dòng hải lưu, chúng dường như đang phát triển với tốc độ nhanh và mạnh, gây lo ngại đáng kể cho chính quyền ven biển.
 Story/CaravanIsland/Voiceline/RaftTownArticle1_4;Text;;"""A maritime hazard in the making,"" the foreign minister stated this morning in a public address.";"""Một mối nguy hiểm hàng hải đang hình thành,"" Ngoại trưởng tuyên bố sáng nay trong một bài phát biểu trước công chúng."
 Story/CaravanIsland/Voiceline/RaftTownArticle1_5;Text;;Despite these concerns many believe raft towns could very well be a viable alternative.;Bất chấp những lo ngại này, nhiều người tin rằng các thị trấn bè rất có thể là một giải pháp thay thế khả thi.
@@ -1375,28 +1375,28 @@ Story/Intro/ScientistPicture;Text;;To the biggest idiot in the world.;Gửi tớ
 Story/Prologue;Text;;"Stop me if you’ve heard this one before: fifteen rafts go out, searching for land, six days before the mother of all storms.
 
 It took us three months to prepare. The storm blew us apart and away in four days.
- 
+
 Now, there’s just me and the Raft, the sound of the waves and the rumbling in my gut. I’d brood, but I think I saw a shark.
- 
+
 Time to get to work.";"Tôi sẽ ngừng kể nếu như bạn đã nghe chuyện này trước đây rồi: Sáu ngày trước cơn siêu bão, mười lăm chiếc bè đã rong buồm ra khơi, đi tìm kiếm đất liền.
 
 Mất tận ba tháng để chuẩn bị. Ấy vậy mà chỉ bốn ngày thôi cơn bão đã khiến chúng tôi tan tác.
 
 Bây giờ, chỉ còn tôi với chiếc bè, tiếng sóng dồn dập và tiếng réo rắt trong tận ruột gan. Tôi nghĩ rằng, tôi hình như đã nhìn thấy một con cá mập.
- 
+
 Đến lúc bắt tay vào việc rồi."
 Story/Prologue/Prologue;Text;;"Stop me if you’ve heard this one before: fifteen rafts go out, searching for land, six days before the mother of all storms.
 
 It took us three months to prepare. The storm blew us apart and away in four days.
- 
+
 Now, there’s just me and the Raft, the sound of the waves and the rumbling in my gut. I’d brood, but I think I saw a shark.
- 
+
 Time to get to work.";"Tôi sẽ ngừng kể nếu như bạn đã nghe chuyện này trước đây rồi: Sáu ngày trước cơn siêu bão, mười lăm chiếc bè đã rong buồm ra khơi, đi tìm kiếm đất liền.
 
 Mất tận ba tháng để chuẩn bị. Ấy vậy mà chỉ bốn ngày thôi cơn bão đã khiến chúng tôi tan tác.
 
 Bây giờ, chỉ còn tôi với chiếc bè, tiếng sóng dồn dập và tiếng réo rắt trong tận ruột gan. Tôi nghĩ rằng, tôi hình như đã nhìn thấy một con cá mập.
- 
+
 Đến lúc bắt tay vào việc rồi."
 Story/Prologue/ScoutRule1;Text;;Your Raft is your home. Your Hook is your friend.;Cái BÈ là nhà. Cái MÓC là bạn.
 Story/Prologue/ScoutRule2;Text;;If your Raft breaks, you patch it up. If your Hook is lost, you make another. ;Nếu cái BÈ vỡ, phải sửa liền tay. Nếu mất cái MÓC chế cái khác ngay.
@@ -1437,7 +1437,7 @@ Tôi chỉ biết nhóm ở Selene đã có một nguyên mẫu đang hoạt đ�
 
 Owl thì đang hét lên trong tháp. Có lẽ đài phát thanh đã nhận được một tín hiệu gì đó? Có phải là anh không, Sparrow?
 ~Cuckoo"
-Story/RadioTower/Note3;Text;;"Errm… FEBRUARY(?) 
+Story/RadioTower/Note3;Text;;"Errm… FEBRUARY(?)
 
 We’ve picked up a lot of signals. Maybe someone will come and help us. We’re not starving... yet.
 
@@ -1466,7 +1466,7 @@ Ngày 14 tháng 2 ~Sparrow đã liên lạc. Từ Selene?
 Ngày 6 tháng 3 ~Một cuộc gọi khẩn cấp khác. Từ Varuna. Có đứa trẻ mất tích?
 Ngày 16 tháng 4 ~Những kẻ di cư mơ về UTOPIA. Hy vọng ngu xuẩn."
 Story/RadioTower/PostIt;Text;;People?;Mọi người?
-Story/RadioTower/Voiceline/Note1_1;Text;;DECEMBER 12th: We stopped for the night. Owl climbed the tower. Radio still works apparently.;NGÀY 12 THÁNG 12: Chúng tôi dừng lại giữa đêm. Owl đã trèo lên tháp. Radio vẫn hoạt động bình thường. 
+Story/RadioTower/Voiceline/Note1_1;Text;;DECEMBER 12th: We stopped for the night. Owl climbed the tower. Radio still works apparently.;NGÀY 12 THÁNG 12: Chúng tôi dừng lại giữa đêm. Owl đã trèo lên tháp. Radio vẫn hoạt động bình thường.
 Story/RadioTower/Voiceline/Note1_2;Text;;Should be two weeks before we reach Selene, but the team’s not responding.;Phải hai tuần nữa chúng tôi mới đến được Selene, nhưng cả nhóm lại không phản hồi.
 Story/RadioTower/Voiceline/Note1_3;Text;;You might say things are a bit tense. The other facilities are under water.;Có thể nói mọi thứ có vẻ hơi căng thẳng. Các cơ sở khác đã chìm hết rồi.
 Story/RadioTower/Voiceline/Note1_4;Text;;So… If Selene is lost, we’ve got nothing. And now Sparrow’s not talking to either of us.;Nếu Selene cũng thế, thì chúng ta chẳng còn gì cả. Và bây giờ Sparrow không nói chuyện với cả hai chúng tôi.
@@ -1491,7 +1491,7 @@ Story/RadioTower/Voiceline/Note4_4;Text;;2 Feb ~Gunshots in the distance. Tangar
 Story/RadioTower/Voiceline/Note4_5;Text;;14 Feb ~Sparrow’s comm. At Selene?;Ngày 14 tháng 2 ~Sparrow đã liên lạc. Từ Selene?
 Story/RadioTower/Voiceline/Note4_6;Text;;6 Mar ~Another distress call. Varuna Point. Missing child?;Ngày 6 tháng 3 ~Một cuộc gọi khẩn cấp khác. Từ Varuna. Có đứa trẻ mất tích?
 Story/RadioTower/Voiceline/Note4_7;Text;;16 Apr ~Rafters dreaming of UTOPIA. Foolish hope.;Ngày 16 tháng 4 ~Những kẻ di cư mơ về UTOPIA. Hy vọng ngu xuẩn.
-Story/Tangaroa/GardenerDiary;Text;;"Oh no, no, no. The entire ecosystem is ruined! 
+Story/Tangaroa/GardenerDiary;Text;;"Oh no, no, no. The entire ecosystem is ruined!
 
 I’ve WARNED Captain Tulley about this for weeks now. My contract doesn’t allow me to tell anyone else and it’s eating me up inside. The banana plants won’t bear nearly enough fruit. Not to mention the infestations…
 
@@ -1507,7 +1507,7 @@ Story/Tangaroa/RiotLog;Text;;"(Transcribed)
 (Captain Tulley) - *Muffled response.*
 (Security) - ”Yes sir, I am armed. But if I may speak freely, we are able to use the water cannons if-”
 (Captain Tulley) - *Muffled order.*
-(Security) - ”Yes, sir. No, sir.” 
+(Security) - ”Yes, sir. No, sir.”
 (Radio static is turned off as the security officer's voice shakes.)
 (Security) - ”Tulley says shoot to wound..?”";"(Bản ghi âm)
 (Bảo vệ) - “Không thưa ngài, họ không làm gì nguy hiểm cả. Vâng, họ vẫn chỉ đang tụng kinh thôi.”
@@ -1537,7 +1537,7 @@ Anh thực sự cần em ở đây, Hanne.
 ~Ruben"
 Story/Tangaroa/Ruben3;Text;;"There’s screaming upstairs. After the Captain opened fire on the rafters, a damn riot broke out. Some supported Tulley’s orders. Others really did not.
 
-A smaller raft made its way into the water entrance. But there was only a kid onboard. His parents were sick, I think. Poor boy isn’t saying much. 
+A smaller raft made its way into the water entrance. But there was only a kid onboard. His parents were sick, I think. Poor boy isn’t saying much.
 
 Tangaroa’s a lost cause. We’re getting out of here.
 ~Ruben";"Có tiếng la hét trên lầu. Sau khi Thuyền trưởng nổ súng chỉ thiên, một cuộc bạo loạn chết tiệt đã nổ ra. Một vài người ủng hộ quyết định của Tulley. Một vài người khác thì không.
@@ -1559,7 +1559,7 @@ Thuyền trưởng Tulley và 'đám chính trị gia' vẫn đang ở trên th�
 ~Ruben"
 Story/Tangaroa/Ruben5;Text;;"The kid’s name is Detto. How someone his age was able to reconstruct an engine like that I’ll never know, but now we’ve got the boat working.
 
-We’ll be gathering up a few more survivors before we head off. The rafters either hid up in the apartments or left to sea. Most of them seemed sick. No wonder they were so desperate. 
+We’ll be gathering up a few more survivors before we head off. The rafters either hid up in the apartments or left to sea. Most of them seemed sick. No wonder they were so desperate.
 
 We need to hurry. Those large rats that came with the rafters are aggressive. I say let them chew Tangaroa into pieces. I’m coming for you, Hanne. Remember the place we heard about? The sanctuary? We’ll meet there. I know it.
 
@@ -1610,13 +1610,13 @@ Story/Tangaroa/Voiceline/Ruben3_4;Text;;His parents were sick, I think. Poor boy
 Story/Tangaroa/Voiceline/Ruben3_5;Text;;Tangaroa’s a lost cause. We’re getting out of here.;Tangaroa đã mất. Bọn anh sẽ rời khỏi đây.
 Story/Tangaroa/Voiceline/Ruben4_1;Text;;Things have gone quiet.;Mọi thứ đã yên tĩnh trở lại.
 Story/Tangaroa/Voiceline/Ruben4_2;Text;;Security teams still go on patrols in their ridiculous golf carts trying to keep some semblance of order. ;Các đội bảo vệ vẫn đi tuần tra trong những chiếc xe golf lố bịch của họ để cố gắng giữ trật tự.
-Story/Tangaroa/Voiceline/Ruben4_3;Text;;I heard the rafters let loose some type of rat. Oh, and they strapped tasers on all the butler bots! ;Anh nghe loáng thoáng mấy người di cư đã thả một số loại chuột gì đó lên. Ồ, và họ đã gắn súng điện lên tất cả các Robot quản gia! 
+Story/Tangaroa/Voiceline/Ruben4_3;Text;;I heard the rafters let loose some type of rat. Oh, and they strapped tasers on all the butler bots! ;Anh nghe loáng thoáng mấy người di cư đã thả một số loại chuột gì đó lên. Ồ, và họ đã gắn súng điện lên tất cả các Robot quản gia!
 Story/Tangaroa/Voiceline/Ruben4_4;Text;;It’s like some kind of dumb guerilla war upstairs.;Nó giống như một kiểu chiến tranh du kích ở tầng trên.
 Story/Tangaroa/Voiceline/Ruben4_5;Text;;We’re fixing up a boat, but there’s no engine.;Bọn anh đang cố sửa một chiếc thuyền, nhưng nó không có động cơ.
 Story/Tangaroa/Voiceline/Ruben4_6;Text;;The raft-kid thinks we could take one of the golf cart engines. It’s not a bad idea.;Đứa trẻ di cư nghĩ bọn anh có thể lấy một trong những động cơ của xe golf. Đó quả là một ý tưởng không tồi.
 Story/Tangaroa/Voiceline/Ruben4_7;Text;;Captain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.;Thuyền trưởng Tulley và 'đám chính trị gia' vẫn đang ở trên tháp. Anh nói cứ để mặc chúng chết ở đó.
 Story/Tangaroa/Voiceline/Ruben4_8;Text;;Captain Tulley and the ‘investors’ are still up in the tower. I say leave them there to rot.;Thuyền trưởng Tulley và 'đám chính trị gia' vẫn đang ở trên tháp. Anh nói cứ để mặc chúng chết ở đó.
-Story/Tangaroa/Voiceline/Ruben5_1;Text;;The kid’s name is Detto.;Đứa trẻ kia tên là Detto. 
+Story/Tangaroa/Voiceline/Ruben5_1;Text;;The kid’s name is Detto.;Đứa trẻ kia tên là Detto.
 Story/Tangaroa/Voiceline/Ruben5_2;Text;;How someone his age was able to reconstruct an engine like that I’ll never know, but now we’ve got the boat working.;Làm thế nào mà một đứa trẻ ở độ tuổi của nó lại có thể chế tạo một động cơ như vậy, dù sao thì bây giờ con thuyền đã hoạt động.
 Story/Tangaroa/Voiceline/Ruben5_3;Text;;We’ll be gathering up a few more survivors before we head off.;Anh sẽ tập hợp thêm vài người sống sót trước khi khởi hành.
 Story/Tangaroa/Voiceline/Ruben5_4;Text;;The rafters either hid up in the apartments or left to sea. Most of them seemed sick. ;Những người di cư trốn trong các căn hộ hoặc bỏ ra biển. Hầu hết trong số họ có vẻ bị bệnh.
@@ -1625,7 +1625,7 @@ Story/Tangaroa/Voiceline/Ruben5_6;Text;;Those large rats that came with the raft
 Story/Tangaroa/Voiceline/Ruben5_7;Text;;I say let them chew Tangaroa into pieces. I’m coming for you, Hanne. ;Anh nói hãy để chúng nhai Tangaroa thành từng mảnh. Anh sẽ đến vì em, Hanne.
 Story/Tangaroa/Voiceline/Ruben5_8;Text;;Remember the place we heard about? The sanctuary? We’ll meet there. I know it.;Nhớ nơi chúng ta đã nói với nhau chứ? Các khu bảo tồn? Chúng ta sẽ gặp nhau ở đó. Anh tin điều đó.
 Story/Tangaroa/Voiceline/Ruben5_9;Text;;I’ll see you there. Utopia.;Anh sẽ gặp em ở đó. Utopia.
-Story/Tangaroa/Voiceline/TulleyNote_1;Text;;My name is James Tulley. This is my final message.;Tên tôi là James Tulley. Đây là thông điệp cuối cùng của tôi. 
+Story/Tangaroa/Voiceline/TulleyNote_1;Text;;My name is James Tulley. This is my final message.;Tên tôi là James Tulley. Đây là thông điệp cuối cùng của tôi.
 Story/Tangaroa/Voiceline/TulleyNote_2;Text;;Tangaroa City was built on a purely theoretical basis, using engines that had barely been tested, held together by the sweat and tears of our crew. ;Thành phố Tangaroa được xây dựng trên cơ sở lý thuyết thuần túy, sử dụng những động cơ hầu như chưa được thử nghiệm, được kết hợp bởi mồ hôi và nước mắt của cả phi hành đoàn chúng tôi.
 Story/Tangaroa/Voiceline/TulleyNote_3;Text;;But we were never sustainable. I should have accepted that months ago.;Chúng tôi biết nó không mãi mãi bền vững. Lẽ ra tôi nên chấp nhận điều đó từ nhiều tháng trước.
 Story/Tangaroa/Voiceline/TulleyNote_4;Text;;When the rafters arrived I could have let them starve with us. But I didn't.;Khi những người di cư đến, tôi có thể để họ chết đói với chúng tôi. Nhưng tôi đã không làm như vậy.
@@ -1634,7 +1634,7 @@ Story/Tangaroa/Voiceline/TulleyNote_6;Text;;Now I will stay here, trapped in the
 Story/Tangaroa/Voiceline/TulleyNote_7;Text;;Don’t worry. We’ll pay for our sins before the end.;Đừng lo lắng. Chúng tôi sẽ trả giá cho tội lỗi của chúng tôi trước ngày tận thế.
 Story/Temperance/Bruno1;Text;;"I’ve already lost MIRANDA. I will not lose you too, HENRY.
 
-The two of us have followed a signal far south. I know it's from my sister. There’s no doubt. 
+The two of us have followed a signal far south. I know it's from my sister. There’s no doubt.
 
 HENRY is skeptical. He thinks the cold will be dangerous. I'm more scared of whatever’s out there in the snowstorm…
 ~Bruno";"Tôi đã mất MIRANDA. Tôi sẽ không để mất cả anh đâu, HENRY.
@@ -1706,14 +1706,14 @@ Story/Temperance/Voiceline/Bruno1_3;Text;;HENRY is skeptical. He thinks the cold
 Story/Temperance/Voiceline/Bruno1_4;Text;;I'm more scared of whatever’s out there in the snowstorm…;Trong cơn bão tuyết ngoài kia còn khiến tôi sợ nhiều thứ hơn.
 Story/Temperance/Voiceline/Bruno2_1;Text;;There’s bears all over this frozen island!;Lũ gấu có mặt trên khắp hòn đảo băng giá này!
 Story/Temperance/Voiceline/Bruno2_2;Text;;One of them completely wrecked the boat when we tried to get away. ;Một trong số chúng đã làm hỏng hoàn toàn con thuyền khi chúng tôi cố gắng chạy trốn.
-Story/Temperance/Voiceline/Bruno2_3;Text;;None of the usual tricks worked either. ;Không có mẹo nào hữu ích cả. 
-Story/Temperance/Voiceline/Bruno2_4;Text;;HENRY and I would have been eaten if that boy with the airhorn hadn’t showed up. ;HENRY và tôi sẽ bị ăn thịt nếu cậu bé cầm còi không xuất hiện. 
+Story/Temperance/Voiceline/Bruno2_3;Text;;None of the usual tricks worked either. ;Không có mẹo nào hữu ích cả.
+Story/Temperance/Voiceline/Bruno2_4;Text;;HENRY and I would have been eaten if that boy with the airhorn hadn’t showed up. ;HENRY và tôi sẽ bị ăn thịt nếu cậu bé cầm còi không xuất hiện.
 Story/Temperance/Voiceline/Bruno2_5;Text;;His name is Detto. Says he came here with some survivors.;Tên cậu bé là Detto. Cậu ấy nói rằng đến đây với một số người sống sót khác.
 Story/Temperance/Voiceline/Bruno2_6;Text;;I asked HENRY if I should trust the boy. But I didn’t get an answer.;Tôi hỏi HENRY liệu tôi có nên tin cậu bé không. Nhưng tôi không nhận được câu trả lời.
 Story/Temperance/Voiceline/Bruno3_1;Text;;Detto showed me and HENRY some abandoned igloos.;Detto cho tôi và HENRY xem mấy cái lều tuyết bị bỏ hoang.
-Story/Temperance/Voiceline/Bruno3_2;Text;;The boy got them open by fiddling with some cables? The big igloo is still shut though.;Cậu bé đã mở chúng bằng cách loay hoay với mấy sợi dây cáp? Tuy nhiên cái Lều lớn vẫn kín bưng. 
+Story/Temperance/Voiceline/Bruno3_2;Text;;The boy got them open by fiddling with some cables? The big igloo is still shut though.;Cậu bé đã mở chúng bằng cách loay hoay với mấy sợi dây cáp? Tuy nhiên cái Lều lớn vẫn kín bưng.
 Story/Temperance/Voiceline/Bruno3_3;Text;;I wonder what’s inside…;Tôi tự hỏi có gì bên trong…
-Story/Temperance/Voiceline/Bruno3_4;Text;;Detto introduced me to a man named Ruben. He was hurt.;Detto giới thiệu tôi với một người đàn ông tên là Ruben. Anh ấy đã bị thương. 
+Story/Temperance/Voiceline/Bruno3_4;Text;;Detto introduced me to a man named Ruben. He was hurt.;Detto giới thiệu tôi với một người đàn ông tên là Ruben. Anh ấy đã bị thương.
 Story/Temperance/Voiceline/Bruno3_5;Text;;Looked like wounds from a bear attack, so I helped fix up the wounds.;Trông giống như những vết thương do bị gấu tấn công, vì vậy tôi đã anh ấy giúp băng bó vết thương.
 Story/Temperance/Voiceline/Bruno3_6;Text;;Astrid used to fix up my wounds the same way. Where are you, sis?;Astrid đã từng chữa lành vết thương cho tôi theo cách tương tự. Chị đang ở đâu?
 Story/Temperance/Voiceline/Bruno4_1;Text;;That kid Detto is really smart. Using material we salvaged, he was able to fix up my boat.;Đứa trẻ Detto đó thực sự rất thông minh. Sử dụng mấy vật liệu chúng tôi vớt được, cậu nhóc đã có thể sửa chữa thuyền của tôi.
@@ -1721,7 +1721,7 @@ Story/Temperance/Voiceline/Bruno4_2;Text;;Ruben is recovering too, but... he doe
 Story/Temperance/Voiceline/Bruno4_3;Text;;Both of them stare whenever I talk to HENRY…?;Cả hai bọn họ đều nhìn chằm chằm bất cứ khi nào tôi nói chuyện với HENRY…?
 Story/Temperance/Voiceline/Bruno4_4;Text;;HENRY doesn’t like the way they look at us. I think I need to do something.;HENRY không thích cách họ nhìn chúng tôi. Tôi nghĩ mình cần phải làm gì đó.
 Story/Temperance/Voiceline/Bruno5_1;Text;;The boat is ready to go. Detto is ready with the airhorn, and Ruben can at least walk.;Chiếc thuyền đã sẵn sàng rồi. Detto cũng đã nghịch xong với cái còi hơi của cậu ấy, và Ruben ít nhất đã có thể đi bộ.
-Story/Temperance/Voiceline/Bruno5_2;Text;;HENRY is staying behind. It’s bittersweet.;HENRY đang ở phía sau. Buồn vui lẫn lộn. 
+Story/Temperance/Voiceline/Bruno5_2;Text;;HENRY is staying behind. It’s bittersweet.;HENRY đang ở phía sau. Buồn vui lẫn lộn.
 Story/Temperance/Voiceline/Bruno5_3;Text;;He doesn’t speak with me anymore, but I think it’s safer for someone to stay behind. ;Anh ấy không nói chuyện với tôi nữa, nhưng tôi nghĩ có người ở lại sẽ an toàn hơn.
 Story/Temperance/Voiceline/Bruno5_4;Text;;Detto says there’s a place with lots of people. Ruben says Astrid might be there.;Detto nói rằng có một nơi có rất nhiều người. Ruben nói Astrid cũng có thể ở đó.
 Story/Temperance/Voiceline/Bruno5_5;Text;;She definitely isn’t here, in this cold place. It’s nice talking to people.;Cô ấy chắc chắn không có ở đây, ở cái nơi lạnh giá này. Thật tuyệt khi được nói chuyện với mọi người.
@@ -1752,9 +1752,9 @@ Với bất kỳ ai đọc được điều này, Olof cũng có mặt trên đ�
 ~Hanne, Đại diện của Utopia"
 Story/Utopia/DettoRaft;Text;;"DETTO'S UTOPIA JOURNAL -SUPER SECRET-
 
-I have my own raft! And it’s hooked up to actual wind turbines! If I had even more power, just imagine all the experiments I could run… 
+I have my own raft! And it’s hooked up to actual wind turbines! If I had even more power, just imagine all the experiments I could run…
 
-But now that lunatic Olof appeared.  His cages are already unloaded and now he’s promising to help everyone with his ‘army’. 
+But now that lunatic Olof appeared.  His cages are already unloaded and now he’s promising to help everyone with his ‘army’.
 
 Last I saw him, Olof Wilkstrom ruined Caravan Town. I will NEVER forgive him! I hope Hanne and Ruben listen to me. He is not to be trusted!
 
@@ -1941,7 +1941,7 @@ Story/Utopia/Voiceline/HanneDialogue5;Text;;"If you need anything, the people of
 ";Nếu bạn cần bất cứ điều gì, người dân của Utopia sẽ hỗ trợ bạn.
 Story/Utopia/Voiceline/HanneDialogue6;Text;;"Together we will rebuild.
 ";Cùng nhau chúng ta có thế tái xây dựng lại.
-Story/Utopia/Voiceline/HanneDialogue7_1;Text;;"I regret Vasagatan. But I’ve left it behind long ago. 
+Story/Utopia/Voiceline/HanneDialogue7_1;Text;;"I regret Vasagatan. But I’ve left it behind long ago.
 ";Tôi tiếc cho Vasagatan. Nhưng tôi đã bỏ nó lại từ lâu rồi.
 Story/Utopia/Voiceline/HanneDialogue7_2;Text;;I think we all need to do the same, and focus solely on the coming days.;Tôi nghĩ tất cả chúng ta cũng cần phải làm như vậy và chỉ nên tập trung cho những ngày sắp tới.
 Story/Utopia/Voiceline/HanneDialogue8_1;Text;;I heard what happened on Tangaroa. I can’t imagine seeing the aftermath. ;Tôi đã nghe chuyện xảy ra ở Tangaroa. Tôi không thể tưởng tượng được việc nhìn thấy hậu quả.
@@ -2054,7 +2054,7 @@ Story/Utopia/Voiceline/OliverDialogue2;Text;;Bad enough we have to deal with an 
 Story/Utopia/Voiceline/OliverDialogue3;Text;;Now there’s these rabid animals also.;Bây giờ cũng có những con vật khác bị bệnh dại này.
 Story/Utopia/Voiceline/OliverDialogue4;Text;;Ugh. So tired of this!;Ứ ư. Mệt mọi thật chứ!
 Story/Utopia/Voiceline/OliverDialogue5;Text;;Oh right, thanks for helping out.;À quên, cảm ơn vì đã giúp nhé!
-Story/Utopia/Voiceline/OlofBigJusticeScale1;Text;;"Look around. The filthy rafters turned luxury apartments into a scrapyard. 
+Story/Utopia/Voiceline/OlofBigJusticeScale1;Text;;"Look around. The filthy rafters turned luxury apartments into a scrapyard.
 ";Nhìn mà xem, lũ mọi rợ chúng mày đã biến một nơi sang chảnh thành một đống phế liệu.
 Story/Utopia/Voiceline/OlofBigJusticeScale2;Text;;Relieving them of the responsibility was the only decent thing I could do for them.;Việt hoá bởi Hoàng Thông! Và bản việt hoá này là miễn phí!
 Story/Utopia/Voiceline/OlofBigJusticeScale3;Text;;I can’t believe how ungrateful all of you are.;Không thể tin được tất cả bọn bay lại vô ơn như thế nào.
@@ -2181,7 +2181,7 @@ Anh ta đã trèo lên trên cần cẩu với cái đĩa vệ tinh trên tay. A
 
 Tôi đã… trộm một trong những con búp bê của anh ấy. Tên con búp bê là ‘Miranda’. Anh ta đã rời đi một giờ trước, sau khi lo lắng cả ngày về nó! Ha! Dạo này nhiều người lạ quá.
 ~Kẻ Trộm"
-Story/Varuna/Grabber6;Text;;"I would be bored these days, if the ‘motherlode’ wasn’t on the forefront of my mind. The water stole it from me. I should’ve acted sooner. 
+Story/Varuna/Grabber6;Text;;"I would be bored these days, if the ‘motherlode’ wasn’t on the forefront of my mind. The water stole it from me. I should’ve acted sooner.
 
 Now there’s trouble in the way. It’s risky to deal with, but it might be worth it. The thought gnaws at me.
 
@@ -2193,7 +2193,7 @@ Tôi có cách này. Nó rất nguy hiểm để thực hiện, nhưng nó cũng
 Mà đó chỉ là một con cá mập. Có thể khó đến mức nào cơ chứ?
 ~Kẻ Trộm"
 Story/Varuna/Voiceline/Grabber1_1;Text;;Varuna Point has all too many holes in it. Makes it easy to move unnoticed.;Varuna Point có quá nhiều lỗ hổng. Điều này giúp tôi dễ dàng di chuyển mà không bị ai phát hiện.
-Story/Varuna/Voiceline/Grabber1_2;Text;;Today I nicked a hammer. Yesterday I took some dried meat from the foreman’s stash.;Hôm nay tôi đã thó một cái búa. Còn hôm qua tôi đã trộm một ít thịt khô từ kho của quản đốc. 
+Story/Varuna/Voiceline/Grabber1_2;Text;;Today I nicked a hammer. Yesterday I took some dried meat from the foreman’s stash.;Hôm nay tôi đã thó một cái búa. Còn hôm qua tôi đã trộm một ít thịt khô từ kho của quản đốc.
 Story/Varuna/Voiceline/Grabber1_3;Text;;It’s less fun taking food, since it spoils, eventually. ;Việc trộm thức ăn này cũng chẳng có gì thú vị, vì cuối cùng miếng thịt ấy cũng sẽ hỏng.
 Story/Varuna/Voiceline/Grabber1_4;Text;;The watch I got from the loud-mouthed driller was way more exciting.;Nhưng chiếc đồng hồ tôi trộm được từ gã thợ khoan to mồm thú vị hơn nhiều.
 Story/Varuna/Voiceline/Grabber1_5;Text;;I want to grab something even better tonight.;Tối nay tôi muốn trộm lấy thứ gì đó thú vị hơn.
@@ -2222,7 +2222,7 @@ Story/Varuna/Voiceline/Grabber6_3;Text;;Now there’s trouble in the way. It’s
 Story/Varuna/Voiceline/Grabber6_4;Text;;But it’s just one shark. How hard could it be?;Mà đó chỉ là một con cá mập. Có thể khó đến mức nào cơ chứ?
 Story/Vasagatan/HannesLetter1;Text;;"I heard from the captain we’re heading for one of the high-rises down south. I can only hope you come to your senses and follow us.
 
-You knew the city was a failure, Ruben. Why do you always have to be so stubborn? 
+You knew the city was a failure, Ruben. Why do you always have to be so stubborn?
 ~Hanne";"Em nghe đội trưởng nói rằng bọn em đang hướng đến một trong những tòa nhà cao tầng ở phía nam. Em chỉ có thể hy vọng anh vẫn còn sống và đang đi theo bọn em.
 
 Anh biết thành phố là một thất bại mà, Ruben. Tại sao anh luôn cứng đầu như vậy chứ?
@@ -2254,9 +2254,9 @@ Story/Vasagatan/MagazineClipping2;Text;;"""We must pull through this together or
 Story/Vasagatan/MagazineClipping3;Text;;Wilkstrom refused to comment on the rumors regarding the modification of his personal yacht. When further asked about the Floating City Project’s whistle blowers, Olof Wilkstrom chose to terminate the interview. Reaching out to these anonymous sources we were able to further corroborate -;Wilkstrom từ chối bình luận về những tin đồn liên quan đến việc sửa đổi du thuyền cá nhân của mình. Khi được hỏi thêm về Dự án Thành phố Nổi, Olof Wilkstrom đã chọn kết thúc cuộc phỏng vấn. Tiếp cận với các nguồn tin ẩn danh này, chúng tôi có thể chứng thực thêm-
 Story/Vasagatan/MagazineClippingFactbox;Text;;Factbox;Hộp sự thật
 Story/Vasagatan/MagazineClippingTitle;Text;;CITIES IN THE BLUE;THÀNH PHỐ TRÊN BIỂN
-Story/Vasagatan/OlofsLog1;Text;;"The captain keeps complaining about my route. If he does it again he will be reprimanded. 
+Story/Vasagatan/OlofsLog1;Text;;"The captain keeps complaining about my route. If he does it again he will be reprimanded.
 
-The crew doesn’t listen to orders. I’m shocked by their undisciplined nature. Somehow they believe rank and prestige disappeared with solid land. No, they will not be allowed to mingle among my esteemed guests. And they will certainly not be allowed further rations. 
+The crew doesn’t listen to orders. I’m shocked by their undisciplined nature. Somehow they believe rank and prestige disappeared with solid land. No, they will not be allowed to mingle among my esteemed guests. And they will certainly not be allowed further rations.
 
 They should be grateful. I am the only reason they are alive.
 ~Olof Wilkstrom";"Gã Thuyền trưởng cứ phàn nàn về kế hoạch của mình. Nếu còn gã còn dám phàn nàn gã ta sẽ biết thế nào là lễ độ.
@@ -2285,7 +2285,7 @@ Họ có một quần thể động vật lớn khác. Mình sẽ không còn c�
 ~Olof Wilkstrom"
 Story/Vasagatan/Recording1;Text;;"(Transcribed)
 (Hanne) - “But what does that mean? You can’t just fire them. We’re out at sea!”
-(Olof) - “Hanne, you were brought to keep the engines running. That is what you-” 
+(Olof) - “Hanne, you were brought to keep the engines running. That is what you-”
 (Lurker) - *Rabid noises.*
 (Hanne) - “That’s one of those damn rats! What are you doing to it?”
 (Olof) - “Get out. Do your job.”";"(Bản ghi âm)
